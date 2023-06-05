@@ -9,8 +9,8 @@ public class ProducerEventResponse implements Runnable {
     private BlockingQueue<Long> queueEvents;
     private BlockingQueue<EventResponse> queueResponse;
     private LeonConnector leonConnector = new LeonConnector();
-    private static final Long exitEvent = Long.MAX_VALUE;
-    private static final EventResponse exitEventResponse = new EventResponse(Long.MAX_VALUE, "test");
+    private static final Long exitEvent = Long.MIN_VALUE;
+    private static final EventResponse exitEventResponse = new EventResponse(Long.MIN_VALUE, "test");
 
     public ProducerEventResponse(BlockingQueue<Long> queueEvents, BlockingQueue<EventResponse> queueResponse) {
         this.queueEvents = queueEvents;

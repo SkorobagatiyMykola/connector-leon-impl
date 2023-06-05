@@ -9,7 +9,7 @@ public class ProducerEventId implements Runnable {
     private List<Long> topLeagues;
     private BlockingQueue<Long> queueEvents;
     private LeonConnector leonConnector = new LeonConnector();
-    private static final Long exitEvent = Long.MAX_VALUE;
+    private static final Long exitEvent = Long.MIN_VALUE;
 
     public ProducerEventId(List<Long> topLeagues, BlockingQueue<Long> queueEvents) {
         this.topLeagues = topLeagues;

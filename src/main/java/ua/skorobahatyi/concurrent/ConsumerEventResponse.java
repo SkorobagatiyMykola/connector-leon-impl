@@ -8,7 +8,7 @@ import java.util.concurrent.BlockingQueue;
 public class ConsumerEventResponse implements Runnable {
     private BlockingQueue<EventResponse> queueResponse;
     static Reporting report = new Reporting();
-    private static final EventResponse exitEventResponse = new EventResponse(Long.MAX_VALUE, "test");
+    private static final EventResponse exitEventResponse = new EventResponse(Long.MIN_VALUE, "test");
 
     public ConsumerEventResponse(BlockingQueue<EventResponse> queueResponse) {
         this.queueResponse = queueResponse;
