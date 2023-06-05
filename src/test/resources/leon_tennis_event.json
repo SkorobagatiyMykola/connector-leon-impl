@@ -1,0 +1,2019 @@
+{
+  "id": 1970324842072117,
+  "name": "Fognini, F - Ofner, S",
+  "nameDefault": "Fognini, F - Ofner, S",
+  "competitors": [
+    {
+      "id": 1970324836999751,
+      "name": "Fognini, F",
+      "homeAway": "HOME"
+    },
+    {
+      "id": 1970324837001848,
+      "name": "Ofner, S",
+      "homeAway": "AWAY"
+    }
+  ],
+  "kickoff": 1685709900000,
+  "lastUpdated": 1685717421310,
+  "league": {
+    "id": 1970324836987012,
+    "sport": {
+      "id": 1970324836974594,
+      "name": "Tennis",
+      "weight": 997,
+      "family": "Tennis",
+      "mainMarkets": [
+        {
+          "id": 1970324836974742,
+          "name": "Winner",
+          "weight": 1,
+          "altMarketTypeIds": [
+
+          ],
+          "virtual": false
+        },
+        {
+          "id": 1970324836974758,
+          "name": "Games Handicap",
+          "weight": 2,
+          "altMarketTypeIds": [
+            1970324836977995
+          ],
+          "virtual": false
+        },
+        {
+          "id": 1970324836974754,
+          "name": "Total Games",
+          "weight": 3,
+          "altMarketTypeIds": [
+
+          ],
+          "virtual": false
+        },
+        {
+          "id": 1970324836976392,
+          "name": "Set Winner",
+          "weight": 4,
+          "altMarketTypeIds": [
+            1970324836974747,
+            1970324836974749,
+            1970324836977985,
+            1970324836977986,
+            1970324836977999
+          ],
+          "virtual": false
+        }
+      ],
+      "url": "tennis",
+      "marketGroups": [
+        {
+          "id": 1970324836974602,
+          "name": "Main",
+          "marketTypeIds": [
+            1970324836974742,
+            1970324836974746,
+            1970324836974750,
+            1970324836977995,
+            1970324836974753,
+            1970324836976394,
+            1970324836974754,
+            1970324836976393,
+            1970324836977990,
+            1970324836974758,
+            1970324836976387,
+            1970324836976386,
+            1970324836974967
+          ],
+          "virtual": false
+        },
+        {
+          "id": 1970324836974603,
+          "name": "Sets",
+          "marketTypeIds": [
+            1970324836978388,
+            1970324836978389,
+            1970324836974747,
+            1970324836977998,
+            1970324836974749,
+            1970324836977999,
+            1970324836977996,
+            1970324836977997,
+            1970324836976396,
+            1970324836976395,
+            1970324836977992,
+            1970324836977993,
+            1970324836976392,
+            1970324836976391,
+            1970324836977991,
+            1970324836976390,
+            1970324836977988,
+            1970324836977989,
+            1970324836977986,
+            1970324836977987,
+            1970324836976385,
+            1970324836977985,
+            1970324836978390,
+            1970324836978391
+          ],
+          "virtual": false
+        },
+        {
+          "id": 1970324836974604,
+          "name": "Games",
+          "marketTypeIds": [
+            1970324836976389,
+            1970324836976388,
+            1970324836976400,
+            1970324836976384,
+            1970324836976399,
+            1970324836976383,
+            1970324836976398,
+            1970324836976397
+          ],
+          "virtual": false
+        },
+        {
+          "id": 1970324836974605,
+          "name": "Aces/Double Faults",
+          "marketTypeIds": [
+            1970324836978386,
+            1970324836978384,
+            1970324836978385,
+            1970324836978382,
+            1970324836978383,
+            1970324836978380,
+            1970324836978381
+          ],
+          "virtual": false
+        }
+      ]
+    },
+    "name": "French Open",
+    "nameDefault": "French Open",
+    "url": "french-open",
+    "weight": 1,
+    "prematch": 0,
+    "inplay": 1,
+    "outright": 0,
+    "top": true,
+    "hasZeroMarginEvents": false,
+    "topOrder": 30,
+    "region": {
+      "id": 1970324836974594,
+      "name": "ATP",
+      "nameDefault": "ATP",
+      "url": "atp"
+    }
+  },
+  "betline": "inplay",
+  "open": true,
+  "status": "OPEN",
+  "native": true,
+  "widgetId": "41408885",
+  "widgetType": "BETRADAR",
+  "widgetVirtual": false,
+  "url": "fognini-f-ofner-s",
+  "liveStatus": {
+    "stage": "3rd set",
+    "score": "*1:1",
+    "detailedPhase": "SET_3",
+    "setScores": "7:5; 3:6; 2:1",
+    "progress": "0:0",
+    "createAt": 1685717420934,
+    "fullProgress": {
+      "score": "0:0"
+    },
+    "progressSetupEnabled": false
+  },
+  "matchPhase": "IN_PLAY",
+  "hasMarketWithZeroMargin": false,
+  "markets": [
+    {
+      "id": 1970325220040124,
+      "name": "Winner",
+      "marketTypeId": 1970324836974742,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": true,
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325755763962,
+          "name": "1",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 1.85,
+          "priceStr": "1.85"
+        },
+        {
+          "id": 1970325755763961,
+          "name": "2",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 1.8,
+          "priceStr": "1.80"
+        }
+      ],
+      "selectionTypes": [
+        "HOME",
+        "AWAY"
+      ]
+    },
+    {
+      "id": 1970325220040195,
+      "name": "Games Handicap",
+      "marketTypeId": 1970324836974758,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "-0.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325755764118,
+          "name": "1 (-0.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 2.0,
+          "priceStr": "2.00",
+          "handicap": "-0.5"
+        },
+        {
+          "id": 1970325755764117,
+          "name": "2 (+0.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 1.7,
+          "priceStr": "1.70",
+          "handicap": "+0.5"
+        }
+      ],
+      "selectionTypes": [
+        "AWAY",
+        "HOME"
+      ]
+    },
+    {
+      "id": 1970325220040136,
+      "name": "Games Handicap",
+      "marketTypeId": 1970324836974758,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "0.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325755763985,
+          "name": "1 (+0.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 1.85,
+          "priceStr": "1.85",
+          "handicap": "+0.5"
+        },
+        {
+          "id": 1970325755763986,
+          "name": "2 (-0.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 1.8,
+          "priceStr": "1.80",
+          "handicap": "-0.5"
+        }
+      ],
+      "selectionTypes": [
+        "AWAY",
+        "HOME"
+      ]
+    },
+    {
+      "id": 1970325220040180,
+      "name": "Games Handicap",
+      "marketTypeId": 1970324836974758,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "1.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325755764087,
+          "name": "1 (+1.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 1.75,
+          "priceStr": "1.75",
+          "handicap": "+1.5"
+        },
+        {
+          "id": 1970325755764088,
+          "name": "2 (-1.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 1.9,
+          "priceStr": "1.90",
+          "handicap": "-1.5"
+        }
+      ],
+      "selectionTypes": [
+        "AWAY",
+        "HOME"
+      ]
+    },
+    {
+      "id": 1970325220852214,
+      "name": "Total Games",
+      "marketTypeId": 1970324836974754,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "42.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325757692305,
+          "name": "Under (42.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 2.1,
+          "priceStr": "2.10",
+          "handicap": "42.5"
+        },
+        {
+          "id": 1970325757692306,
+          "name": "Over (42.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 1.6,
+          "priceStr": "1.60",
+          "handicap": "42.5"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325220856177,
+      "name": "Total Games",
+      "marketTypeId": 1970324836974754,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "43.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325757701732,
+          "name": "Under (43.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.85,
+          "priceStr": "1.85",
+          "handicap": "43.5"
+        },
+        {
+          "id": 1970325757701733,
+          "name": "Over (43.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 1.85,
+          "priceStr": "1.85",
+          "handicap": "43.5"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325220858825,
+      "name": "Total Games",
+      "marketTypeId": 1970324836974754,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "44.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325757708154,
+          "name": "Under (44.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.65,
+          "priceStr": "1.65",
+          "handicap": "44.5"
+        },
+        {
+          "id": 1970325757708155,
+          "name": "Over (44.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 2.05,
+          "priceStr": "2.05",
+          "handicap": "44.5"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325220040126,
+      "name": "Set Handicap",
+      "marketTypeId": 1970324836974753,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "-1.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325755763966,
+          "name": "1 (-1.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 2.75,
+          "priceStr": "2.75",
+          "handicap": "-1.5"
+        },
+        {
+          "id": 1970325755763965,
+          "name": "2 (+1.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 1.4,
+          "priceStr": "1.40",
+          "handicap": "+1.5"
+        }
+      ],
+      "selectionTypes": [
+        "AWAY",
+        "HOME"
+      ]
+    },
+    {
+      "id": 1970325220040123,
+      "name": "Set Handicap",
+      "marketTypeId": 1970324836974753,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "1.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325755763959,
+          "name": "1 (+1.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 1.27,
+          "priceStr": "1.27",
+          "handicap": "+1.5"
+        },
+        {
+          "id": 1970325755763960,
+          "name": "2 (-1.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 3.35,
+          "priceStr": "3.35",
+          "handicap": "-1.5"
+        }
+      ],
+      "selectionTypes": [
+        "AWAY",
+        "HOME"
+      ]
+    },
+    {
+      "id": 1970325220040368,
+      "name": "Total Sets - Over/Under",
+      "marketTypeId": 1970324836976394,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "4.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325755764543,
+          "name": "Under (4.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.6,
+          "priceStr": "1.60",
+          "handicap": "4.5"
+        },
+        {
+          "id": 1970325755764544,
+          "name": "Over (4.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 2.2,
+          "priceStr": "2.20",
+          "handicap": "4.5"
+        }
+      ],
+      "selectionTypes": [
+        "UNDER",
+        "OVER"
+      ]
+    },
+    {
+      "id": 1970325220829301,
+      "name": "Player 1 - Total Games",
+      "marketTypeId": 1970324836976387,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "21.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325757636452,
+          "name": "Under (21.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 2.8,
+          "priceStr": "2.80",
+          "handicap": "21.5"
+        },
+        {
+          "id": 1970325757636453,
+          "name": "Over (21.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 1.37,
+          "priceStr": "1.37",
+          "handicap": "21.5"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325220845203,
+      "name": "Player 1 - Total Games",
+      "marketTypeId": 1970324836976387,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "22.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325757676038,
+          "name": "Under (22.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.7,
+          "priceStr": "1.70",
+          "handicap": "22.5"
+        },
+        {
+          "id": 1970325757676039,
+          "name": "Over (22.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 2.0,
+          "priceStr": "2.00",
+          "handicap": "22.5"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325220867242,
+      "name": "Player 1 - Total Games",
+      "marketTypeId": 1970324836976387,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "23.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325757728256,
+          "name": "Under (23.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.35,
+          "priceStr": "1.35",
+          "handicap": "23.5"
+        },
+        {
+          "id": 1970325757728257,
+          "name": "Over (23.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 2.95,
+          "priceStr": "2.95",
+          "handicap": "23.5"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325220852208,
+      "name": "Player 2 - Total Games",
+      "marketTypeId": 1970324836976386,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "22.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325757692282,
+          "name": "Under (22.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 2.5,
+          "priceStr": "2.50",
+          "handicap": "22.5"
+        },
+        {
+          "id": 1970325757692283,
+          "name": "Over (22.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 1.45,
+          "priceStr": "1.45",
+          "handicap": "22.5"
+        }
+      ],
+      "selectionTypes": [
+        "UNDER",
+        "OVER"
+      ]
+    },
+    {
+      "id": 1970325220856178,
+      "name": "Player 2 - Total Games",
+      "marketTypeId": 1970324836976386,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "23.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325757701734,
+          "name": "Under (23.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.85,
+          "priceStr": "1.85",
+          "handicap": "23.5"
+        },
+        {
+          "id": 1970325757701735,
+          "name": "Over (23.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 1.85,
+          "priceStr": "1.85",
+          "handicap": "23.5"
+        }
+      ],
+      "selectionTypes": [
+        "UNDER",
+        "OVER"
+      ]
+    },
+    {
+      "id": 1970325220858126,
+      "name": "Player 2 - Total Games",
+      "marketTypeId": 1970324836976386,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "24.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325757706513,
+          "name": "Under (24.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.45,
+          "priceStr": "1.45",
+          "handicap": "24.5"
+        },
+        {
+          "id": 1970325757706512,
+          "name": "Over (24.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 2.55,
+          "priceStr": "2.55",
+          "handicap": "24.5"
+        }
+      ],
+      "selectionTypes": [
+        "UNDER",
+        "OVER"
+      ]
+    },
+    {
+      "id": 1970325220818550,
+      "name": "Tiebreak - Yes/No?",
+      "marketTypeId": 1970324836976393,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325757610493,
+          "name": "Yes",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "YES"
+          ],
+          "price": 2.75,
+          "priceStr": "2.75"
+        },
+        {
+          "id": 1970325757610492,
+          "name": "No",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "NO"
+          ],
+          "price": 1.4,
+          "priceStr": "1.40"
+        }
+      ],
+      "selectionTypes": [
+        "YES",
+        "NO"
+      ]
+    },
+    {
+      "id": 1970325220040131,
+      "name": "Any Set to finish 6:0 or 0:6?",
+      "marketTypeId": 1970324836976402,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325755763975,
+          "name": "Yes",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "YES"
+          ],
+          "price": 10.0,
+          "priceStr": "10.00"
+        },
+        {
+          "id": 1970325755763976,
+          "name": "No",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "NO"
+          ],
+          "price": 1.02,
+          "priceStr": "1.02"
+        }
+      ],
+      "selectionTypes": [
+        "NO",
+        "YES"
+      ]
+    },
+    {
+      "id": 1970325220040117,
+      "name": "Odd/Even",
+      "marketTypeId": 1970324836974746,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325755763941,
+          "name": "Odd",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "ODD"
+          ],
+          "price": 1.85,
+          "priceStr": "1.85"
+        },
+        {
+          "id": 1970325755763940,
+          "name": "Even",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "EVEN"
+          ],
+          "price": 1.9,
+          "priceStr": "1.90"
+        }
+      ],
+      "selectionTypes": [
+        "ODD",
+        "EVEN"
+      ]
+    },
+    {
+      "id": 1970325220818548,
+      "name": "Set 3 - Winner",
+      "marketTypeId": 1970324836976392,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325757610489,
+          "name": "1",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 1.52,
+          "priceStr": "1.52"
+        },
+        {
+          "id": 1970325757610488,
+          "name": "2",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 2.3,
+          "priceStr": "2.30"
+        }
+      ],
+      "selectionTypes": [
+        "AWAY",
+        "HOME"
+      ]
+    },
+    {
+      "id": 1970325220867076,
+      "name": "Set 3 - Game Handicap",
+      "marketTypeId": 1970324836976390,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "-2.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325757727896,
+          "name": "1 (-2.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 3.0,
+          "priceStr": "3.00",
+          "handicap": "-2.5"
+        },
+        {
+          "id": 1970325757727897,
+          "name": "2 (+2.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 1.32,
+          "priceStr": "1.32",
+          "handicap": "+2.5"
+        }
+      ],
+      "selectionTypes": [
+        "HOME",
+        "AWAY"
+      ]
+    },
+    {
+      "id": 1970325220861408,
+      "name": "Set 3 - Game Handicap",
+      "marketTypeId": 1970324836976390,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "-1.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325757714292,
+          "name": "1 (-1.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 1.7,
+          "priceStr": "1.70",
+          "handicap": "-1.5"
+        },
+        {
+          "id": 1970325757714291,
+          "name": "2 (+1.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 2.0,
+          "priceStr": "2.00",
+          "handicap": "+1.5"
+        }
+      ],
+      "selectionTypes": [
+        "HOME",
+        "AWAY"
+      ]
+    },
+    {
+      "id": 1970325220861416,
+      "name": "Set 3 - Game Handicap",
+      "marketTypeId": 1970324836976390,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "1.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325757714324,
+          "name": "1 (+1.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 1.35,
+          "priceStr": "1.35",
+          "handicap": "+1.5"
+        },
+        {
+          "id": 1970325757714323,
+          "name": "2 (-1.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 2.9,
+          "priceStr": "2.90",
+          "handicap": "-1.5"
+        }
+      ],
+      "selectionTypes": [
+        "HOME",
+        "AWAY"
+      ]
+    },
+    {
+      "id": 1970325220861420,
+      "name": "Set 3 - Total Games Over/Under",
+      "marketTypeId": 1970324836976396,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "8.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325757714337,
+          "name": "Under (8.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 3.75,
+          "priceStr": "3.75",
+          "handicap": "8.5"
+        },
+        {
+          "id": 1970325757714338,
+          "name": "over (8.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 1.22,
+          "priceStr": "1.22",
+          "handicap": "8.5"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325220861421,
+      "name": "Set 3 - Total Games Over/Under",
+      "marketTypeId": 1970324836976396,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "9.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325757714340,
+          "name": "Under (9.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 2.2,
+          "priceStr": "2.20",
+          "handicap": "9.5"
+        },
+        {
+          "id": 1970325757714339,
+          "name": "over (9.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 1.57,
+          "priceStr": "1.57",
+          "handicap": "9.5"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325220861410,
+      "name": "Set 3 - Total Games Over/Under",
+      "marketTypeId": 1970324836976396,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "10.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325757714296,
+          "name": "Under (10.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.32,
+          "priceStr": "1.32",
+          "handicap": "10.5"
+        },
+        {
+          "id": 1970325757714297,
+          "name": "over (10.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 3.05,
+          "priceStr": "3.05",
+          "handicap": "10.5"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325220861411,
+      "name": "Set 3 - Correct Score",
+      "marketTypeId": 1970324836976385,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325757714302,
+          "name": "6:1",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "SCORE"
+          ],
+          "price": 16.5,
+          "priceStr": "16.50"
+        },
+        {
+          "id": 1970325757714311,
+          "name": "6:2",
+          "open": true,
+          "r": 1,
+          "c": 0,
+          "tags": [
+            "SCORE"
+          ],
+          "price": 5.7,
+          "priceStr": "5.70"
+        },
+        {
+          "id": 1970325757714298,
+          "name": "2:6",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "SCORE"
+          ],
+          "price": 32.0,
+          "priceStr": "32.00"
+        },
+        {
+          "id": 1970325757714301,
+          "name": "3:6",
+          "open": true,
+          "r": 1,
+          "c": 1,
+          "tags": [
+            "SCORE"
+          ],
+          "price": 8.5,
+          "priceStr": "8.50"
+        },
+        {
+          "id": 1970325757714303,
+          "name": "6:3",
+          "open": true,
+          "r": 2,
+          "c": 0,
+          "tags": [
+            "SCORE"
+          ],
+          "price": 9.0,
+          "priceStr": "9.00"
+        },
+        {
+          "id": 1970325757714308,
+          "name": "6:4",
+          "open": true,
+          "r": 3,
+          "c": 0,
+          "tags": [
+            "SCORE"
+          ],
+          "price": 4.0,
+          "priceStr": "4.00"
+        },
+        {
+          "id": 1970325757714299,
+          "name": "4:6",
+          "open": true,
+          "r": 2,
+          "c": 1,
+          "tags": [
+            "SCORE"
+          ],
+          "price": 8.25,
+          "priceStr": "8.25"
+        },
+        {
+          "id": 1970325757714307,
+          "name": "7:5",
+          "open": true,
+          "r": 4,
+          "c": 0,
+          "tags": [
+            "SCORE"
+          ],
+          "price": 16.0,
+          "priceStr": "16.00"
+        },
+        {
+          "id": 1970325757714309,
+          "name": "5:7",
+          "open": true,
+          "r": 3,
+          "c": 1,
+          "tags": [
+            "SCORE"
+          ],
+          "price": 11.0,
+          "priceStr": "11.00"
+        },
+        {
+          "id": 1970325757714305,
+          "name": "7:6",
+          "open": true,
+          "r": 5,
+          "c": 0,
+          "tags": [
+            "SCORE"
+          ],
+          "price": 12.0,
+          "priceStr": "12.00"
+        },
+        {
+          "id": 1970325757714300,
+          "name": "6:7",
+          "open": true,
+          "r": 4,
+          "c": 1,
+          "tags": [
+            "SCORE"
+          ],
+          "price": 9.25,
+          "priceStr": "9.25"
+        }
+      ]
+    },
+    {
+      "id": 1970325220866238,
+      "name": "Set 3 - To win Games 5 & 6",
+      "marketTypeId": 1970324836976401,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 3,
+      "runners": [
+        {
+          "id": 1970325757726016,
+          "name": "1",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 4.4,
+          "priceStr": "4.40"
+        },
+        {
+          "id": 1970325757726015,
+          "name": "X",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "DRAW"
+          ],
+          "price": 1.65,
+          "priceStr": "1.65"
+        },
+        {
+          "id": 1970325757726014,
+          "name": "2",
+          "open": true,
+          "r": 0,
+          "c": 2,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 3.55,
+          "priceStr": "3.55"
+        }
+      ],
+      "selectionTypes": [
+        "DRAW",
+        "HOME",
+        "AWAY"
+      ]
+    },
+    {
+      "id": 1970325220867379,
+      "name": "Set 3 - To win Games 6 & 7",
+      "marketTypeId": 1970324836976401,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 3,
+      "runners": [
+        {
+          "id": 1970325757728561,
+          "name": "1",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 4.35,
+          "priceStr": "4.35"
+        },
+        {
+          "id": 1970325757728559,
+          "name": "X",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "DRAW"
+          ],
+          "price": 1.65,
+          "priceStr": "1.65"
+        },
+        {
+          "id": 1970325757728560,
+          "name": "2",
+          "open": true,
+          "r": 0,
+          "c": 2,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 3.55,
+          "priceStr": "3.55"
+        }
+      ],
+      "selectionTypes": [
+        "DRAW",
+        "HOME",
+        "AWAY"
+      ]
+    },
+    {
+      "id": 1970325220861404,
+      "name": "Set 3 TieBreak - Yes/No?",
+      "marketTypeId": 1970324836976395,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325757714280,
+          "name": "Yes",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "YES"
+          ],
+          "price": 5.0,
+          "priceStr": "5.00"
+        },
+        {
+          "id": 1970325757714279,
+          "name": "No",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "NO"
+          ],
+          "price": 1.14,
+          "priceStr": "1.14"
+        }
+      ],
+      "selectionTypes": [
+        "YES",
+        "NO"
+      ]
+    },
+    {
+      "id": 1970325220861415,
+      "name": "Set 3 - Odd/Even games",
+      "marketTypeId": 1970324836976391,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325757714321,
+          "name": "odd",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "ODD"
+          ],
+          "price": 2.35,
+          "priceStr": "2.35"
+        },
+        {
+          "id": 1970325757714322,
+          "name": "Even",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "EVEN"
+          ],
+          "price": 1.55,
+          "priceStr": "1.55"
+        }
+      ],
+      "selectionTypes": [
+        "EVEN",
+        "ODD"
+      ]
+    },
+    {
+      "id": 1970325220867385,
+      "name": "Set 3, Game 4 - To Win Point 2",
+      "marketTypeId": 1970324836976400,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325757728583,
+          "name": "1",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 1.65,
+          "priceStr": "1.65"
+        },
+        {
+          "id": 1970325757728582,
+          "name": "2",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 2.1,
+          "priceStr": "2.10"
+        }
+      ],
+      "selectionTypes": [
+        "HOME",
+        "AWAY"
+      ]
+    },
+    {
+      "id": 1970325220867377,
+      "name": "Set 3, Game 5 - Winner",
+      "marketTypeId": 1970324836976388,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325757728556,
+          "name": "1",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 3.05,
+          "priceStr": "3.05"
+        },
+        {
+          "id": 1970325757728555,
+          "name": "2",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 1.35,
+          "priceStr": "1.35"
+        }
+      ],
+      "selectionTypes": [
+        "HOME",
+        "AWAY"
+      ]
+    },
+    {
+      "id": 1970325220867380,
+      "name": "Set 3, Game 5 - To lead after 2 Points",
+      "marketTypeId": 1970324836976398,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 3,
+      "runners": [
+        {
+          "id": 1970325757728564,
+          "name": "1",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 5.1,
+          "priceStr": "5.10"
+        },
+        {
+          "id": 1970325757728563,
+          "name": "X",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "DRAW"
+          ],
+          "price": 1.9,
+          "priceStr": "1.90"
+        },
+        {
+          "id": 1970325757728562,
+          "name": "2",
+          "open": true,
+          "r": 0,
+          "c": 2,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 2.6,
+          "priceStr": "2.60"
+        }
+      ],
+      "selectionTypes": [
+        "HOME",
+        "AWAY",
+        "DRAW"
+      ]
+    },
+    {
+      "id": 1970325220867384,
+      "name": "Set 3, Game 5 - Will there be Deuce?",
+      "marketTypeId": 1970324836976389,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325757728581,
+          "name": "Yes",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "YES"
+          ],
+          "price": 3.25,
+          "priceStr": "3.25"
+        },
+        {
+          "id": 1970325757728580,
+          "name": "No",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "NO"
+          ],
+          "price": 1.3,
+          "priceStr": "1.30"
+        }
+      ],
+      "selectionTypes": [
+        "NO",
+        "YES"
+      ]
+    },
+    {
+      "id": 1970325220867383,
+      "name": "Set 3, Game 5 - Correct Score",
+      "marketTypeId": 1970324836976384,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325757728572,
+          "name": "P1 to 0",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 29.0,
+          "priceStr": "29.00"
+        },
+        {
+          "id": 1970325757728579,
+          "name": "P1 to 15",
+          "open": true,
+          "r": 1,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 12.5,
+          "priceStr": "12.50"
+        },
+        {
+          "id": 1970325757728576,
+          "name": "P1 to 30",
+          "open": true,
+          "r": 2,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 8.5,
+          "priceStr": "8.50"
+        },
+        {
+          "id": 1970325757728577,
+          "name": "P1 to 40",
+          "open": true,
+          "r": 3,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 9.0,
+          "priceStr": "9.00"
+        },
+        {
+          "id": 1970325757728575,
+          "name": "P2 to 0",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 6.5,
+          "priceStr": "6.50"
+        },
+        {
+          "id": 1970325757728578,
+          "name": "P2 to 15",
+          "open": true,
+          "r": 1,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 4.4,
+          "priceStr": "4.40"
+        },
+        {
+          "id": 1970325757728574,
+          "name": "P2 to 30",
+          "open": true,
+          "r": 2,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 4.2,
+          "priceStr": "4.20"
+        },
+        {
+          "id": 1970325757728573,
+          "name": "P2 to 40",
+          "open": true,
+          "r": 3,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 4.8,
+          "priceStr": "4.80"
+        }
+      ],
+      "selectionTypes": [
+        "HOME",
+        "HOME",
+        "HOME",
+        "HOME",
+        "AWAY",
+        "AWAY",
+        "AWAY",
+        "AWAY"
+      ]
+    },
+    {
+      "id": 1970325220867376,
+      "name": "Set 3, Game 5 - Exact Points",
+      "marketTypeId": 1970324836976383,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 3,
+      "runners": [
+        {
+          "id": 1970325757728554,
+          "name": "4",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OTHER"
+          ],
+          "price": 5.4,
+          "priceStr": "5.40"
+        },
+        {
+          "id": 1970325757728551,
+          "name": "5",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "OTHER"
+          ],
+          "price": 3.35,
+          "priceStr": "3.35"
+        },
+        {
+          "id": 1970325757728552,
+          "name": "6",
+          "open": true,
+          "r": 0,
+          "c": 2,
+          "tags": [
+            "OTHER"
+          ],
+          "price": 2.95,
+          "priceStr": "2.95"
+        },
+        {
+          "id": 1970325757728553,
+          "name": "7+",
+          "open": true,
+          "r": 1,
+          "c": 0,
+          "tags": [
+            "OTHER"
+          ],
+          "price": 3.25,
+          "priceStr": "3.25"
+        }
+      ]
+    },
+    {
+      "id": 1970325220867381,
+      "name": "Set 3, Game 5 - Odd/Even Points",
+      "marketTypeId": 1970324836976399,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325757728565,
+          "name": "odd",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "ODD"
+          ],
+          "price": 3.25,
+          "priceStr": "3.25"
+        },
+        {
+          "id": 1970325757728566,
+          "name": "Even",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "EVEN"
+          ],
+          "price": 1.3,
+          "priceStr": "1.30"
+        }
+      ],
+      "selectionTypes": [
+        "EVEN",
+        "ODD"
+      ]
+    },
+    {
+      "id": 1970325220861413,
+      "name": "Set 4 - Winner",
+      "marketTypeId": 1970324836976392,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325757714318,
+          "name": "1",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 2.0,
+          "priceStr": "2.00"
+        },
+        {
+          "id": 1970325757714317,
+          "name": "2",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 1.7,
+          "priceStr": "1.70"
+        }
+      ],
+      "selectionTypes": [
+        "AWAY",
+        "HOME"
+      ]
+    }
+  ],
+  "runnersCount": 98
+}

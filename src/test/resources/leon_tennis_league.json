@@ -1,0 +1,3021 @@
+{
+  "enabled": false,
+  "totalCount": 21,
+  "vtag": "9c2cd386-31e1-4ce9-a140-28e9b63a9300",
+  "data": [
+    {
+      "id": 1970324842072117,
+      "name": "Fognini, F - Ofner, S",
+      "nameDefault": "Fognini, F - Ofner, S",
+      "competitors": [
+        {
+          "id": 1970324836999751,
+          "name": "Fognini, F",
+          "homeAway": "HOME"
+        },
+        {
+          "id": 1970324837001848,
+          "name": "Ofner, S",
+          "homeAway": "AWAY"
+        }
+      ],
+      "kickoff": 1685709900000,
+      "lastUpdated": 1685717421310,
+      "league": {
+        "id": 1970324836987012,
+        "sport": {
+          "id": 1970324836974594,
+          "name": "Tennis",
+          "weight": 997,
+          "family": "Tennis",
+          "mainMarkets": [
+            {
+              "id": 1970324836974742,
+              "name": "Winner",
+              "weight": 1,
+              "altMarketTypeIds": [
+
+              ],
+              "virtual": false
+            },
+            {
+              "id": 1970324836974758,
+              "name": "Games Handicap",
+              "weight": 2,
+              "altMarketTypeIds": [
+                1970324836977995
+              ],
+              "virtual": false
+            },
+            {
+              "id": 1970324836974754,
+              "name": "Total Games",
+              "weight": 3,
+              "altMarketTypeIds": [
+
+              ],
+              "virtual": false
+            },
+            {
+              "id": 1970324836976392,
+              "name": "Set Winner",
+              "weight": 4,
+              "altMarketTypeIds": [
+                1970324836974747,
+                1970324836974749,
+                1970324836977985,
+                1970324836977986,
+                1970324836977999
+              ],
+              "virtual": false
+            }
+          ],
+          "url": "tennis"
+        },
+        "name": "French Open",
+        "nameDefault": "French Open",
+        "url": "french-open",
+        "weight": 1,
+        "prematch": 12,
+        "inplay": 2,
+        "outright": 7,
+        "top": true,
+        "hasZeroMarginEvents": false,
+        "topOrder": 30,
+        "region": {
+          "id": 1970324836974594,
+          "name": "ATP",
+          "nameDefault": "ATP",
+          "url": "atp"
+        }
+      },
+      "betline": "inplay",
+      "open": true,
+      "status": "OPEN",
+      "native": true,
+      "widgetId": "41408885",
+      "widgetType": "BETRADAR",
+      "widgetVirtual": false,
+      "url": "fognini-f-ofner-s",
+      "liveStatus": {
+        "stage": "3rd set",
+        "score": "*1:1",
+        "detailedPhase": "SET_3",
+        "setScores": "7:5; 3:6; 2:1",
+        "progress": "0:0",
+        "createAt": 1685717420934,
+        "fullProgress": {
+          "score": "0:0"
+        },
+        "progressSetupEnabled": false
+      },
+      "matchPhase": "IN_PLAY",
+      "hasMarketWithZeroMargin": false,
+      "markets": [
+        {
+          "id": 1970325220040124,
+          "name": "Winner",
+          "marketTypeId": 1970324836974742,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": true,
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325755763962,
+              "name": "1",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "HOME"
+              ],
+              "price": 1.85,
+              "priceStr": "1.85"
+            },
+            {
+              "id": 1970325755763961,
+              "name": "2",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "AWAY"
+              ],
+              "price": 1.8,
+              "priceStr": "1.80"
+            }
+          ],
+          "selectionTypes": [
+            "HOME",
+            "AWAY"
+          ]
+        },
+        {
+          "id": 1970325220040136,
+          "name": "Games Handicap",
+          "marketTypeId": 1970324836974758,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": false,
+          "handicap": "0.5",
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325755763985,
+              "name": "1 (+0.5)",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "HOME"
+              ],
+              "price": 1.85,
+              "priceStr": "1.85",
+              "handicap": "+0.5"
+            },
+            {
+              "id": 1970325755763986,
+              "name": "2 (-0.5)",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "AWAY"
+              ],
+              "price": 1.8,
+              "priceStr": "1.80",
+              "handicap": "-0.5"
+            }
+          ],
+          "selectionTypes": [
+            "AWAY",
+            "HOME"
+          ]
+        },
+        {
+          "id": 1970325220856177,
+          "name": "Total Games",
+          "marketTypeId": 1970324836974754,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": false,
+          "handicap": "43.5",
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325757701732,
+              "name": "Under (43.5)",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "UNDER"
+              ],
+              "price": 1.85,
+              "priceStr": "1.85",
+              "handicap": "43.5"
+            },
+            {
+              "id": 1970325757701733,
+              "name": "Over (43.5)",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "OVER"
+              ],
+              "price": 1.85,
+              "priceStr": "1.85",
+              "handicap": "43.5"
+            }
+          ],
+          "selectionTypes": [
+            "OVER",
+            "UNDER"
+          ]
+        },
+        {
+          "id": 1970325220818548,
+          "name": "Set 3 - Winner",
+          "marketTypeId": 1970324836976392,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": false,
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325757610489,
+              "name": "1",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "HOME"
+              ],
+              "price": 1.52,
+              "priceStr": "1.52"
+            },
+            {
+              "id": 1970325757610488,
+              "name": "2",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "AWAY"
+              ],
+              "price": 2.3,
+              "priceStr": "2.30"
+            }
+          ],
+          "selectionTypes": [
+            "AWAY",
+            "HOME"
+          ]
+        }
+      ],
+      "runnersCount": 98
+    },
+    {
+      "id": 1970324842072119,
+      "name": "Djokovic, N - Davidovich Fokina, A",
+      "nameDefault": "Djokovic, N - Davidovich Fokina, A",
+      "competitors": [
+        {
+          "id": 1970324837001593,
+          "name": "Davidovich Fokina, A",
+          "homeAway": "AWAY"
+        },
+        {
+          "id": 1970324836999736,
+          "name": "Djokovic, N",
+          "homeAway": "HOME",
+          "logoSource": "SCORES",
+          "logo": "https://leonbets3.gcdn.co/HRJLWPLB/images/config_logos_v2/scores24:t:14882.png"
+        }
+      ],
+      "kickoff": 1685710800000,
+      "lastUpdated": 1685717427899,
+      "league": {
+        "id": 1970324836987012
+      },
+      "betline": "inplay",
+      "open": true,
+      "status": "OPEN",
+      "native": true,
+      "widgetId": "41408881",
+      "widgetType": "BETRADAR",
+      "widgetVirtual": false,
+      "url": "djokovic-n-davidovich-fokina-a",
+      "liveStatus": {
+        "stage": "2nd set",
+        "score": "1:0*",
+        "detailedPhase": "SET_2",
+        "setScores": "7:6; 0:0",
+        "progress": "40:30",
+        "createAt": 1685717427554,
+        "fullProgress": {
+          "score": "40:30"
+        },
+        "progressSetupEnabled": false
+      },
+      "matchPhase": "IN_PLAY",
+      "hasMarketWithZeroMargin": false,
+      "markets": [
+        {
+          "id": 1970325220188382,
+          "name": "Winner",
+          "marketTypeId": 1970324836974742,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": true,
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325756124563,
+              "name": "1",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "HOME"
+              ],
+              "price": 1.05,
+              "priceStr": "1.05"
+            },
+            {
+              "id": 1970325756124564,
+              "name": "2",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "AWAY"
+              ],
+              "price": 7.25,
+              "priceStr": "7.25"
+            }
+          ],
+          "selectionTypes": [
+            "HOME",
+            "AWAY"
+          ]
+        },
+        {
+          "id": 1970325220190132,
+          "name": "Games Handicap",
+          "marketTypeId": 1970324836974758,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": false,
+          "handicap": "-6.5",
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325756128566,
+              "name": "1 (-6.5)",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "HOME"
+              ],
+              "price": 1.9,
+              "priceStr": "1.90",
+              "handicap": "-6.5"
+            },
+            {
+              "id": 1970325756128567,
+              "name": "2 (+6.5)",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "AWAY"
+              ],
+              "price": 1.8,
+              "priceStr": "1.80",
+              "handicap": "+6.5"
+            }
+          ],
+          "selectionTypes": [
+            "AWAY",
+            "HOME"
+          ]
+        },
+        {
+          "id": 1970325220190143,
+          "name": "Total Games",
+          "marketTypeId": 1970324836974754,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": false,
+          "handicap": "33.5",
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325756128589,
+              "name": "Under (33.5)",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "UNDER"
+              ],
+              "price": 1.8,
+              "priceStr": "1.80",
+              "handicap": "33.5"
+            },
+            {
+              "id": 1970325756128588,
+              "name": "Over (33.5)",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "OVER"
+              ],
+              "price": 1.9,
+              "priceStr": "1.90",
+              "handicap": "33.5"
+            }
+          ],
+          "selectionTypes": [
+            "OVER",
+            "UNDER"
+          ]
+        },
+        {
+          "id": 1970325220188940,
+          "name": "Set 2 - Winner",
+          "marketTypeId": 1970324836976392,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": false,
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325756125806,
+              "name": "1",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "HOME"
+              ],
+              "price": 1.22,
+              "priceStr": "1.22"
+            },
+            {
+              "id": 1970325756125807,
+              "name": "2",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "AWAY"
+              ],
+              "price": 3.7,
+              "priceStr": "3.70"
+            }
+          ],
+          "selectionTypes": [
+            "AWAY",
+            "HOME"
+          ]
+        }
+      ],
+      "runnersCount": 105
+    },
+    {
+      "id": 1970324842072722,
+      "name": "Musetti, L - Norrie, C",
+      "nameDefault": "Musetti, L - Norrie, C",
+      "competitors": [
+        {
+          "id": 1970324836998774,
+          "name": "Norrie, C",
+          "homeAway": "AWAY",
+          "logoSource": "SCORES",
+          "logo": "https://leonbets3.gcdn.co/HRJLWPLB/images/config_logos_v2/scores24:t:95935.png"
+        },
+        {
+          "id": 1970324836998996,
+          "name": "Musetti, L",
+          "homeAway": "HOME"
+        }
+      ],
+      "kickoff": 1685718300000,
+      "lastUpdated": 1685717435199,
+      "league": {
+        "id": 1970324836987012
+      },
+      "betline": "prematch",
+      "open": true,
+      "status": "OPEN",
+      "native": true,
+      "widgetType": "NONE",
+      "widgetVirtual": false,
+      "url": "musetti-l-norrie-c",
+      "matchPhase": "PRE_GAME",
+      "hasMarketWithZeroMargin": false,
+      "markets": [
+        {
+          "id": 1970325220163338,
+          "name": "Winner",
+          "marketTypeId": 1970324836974742,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": true,
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325756066286,
+              "name": "1",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "HOME"
+              ],
+              "price": 1.5,
+              "priceStr": "1.50"
+            },
+            {
+              "id": 1970325756066285,
+              "name": "2",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "AWAY"
+              ],
+              "price": 2.55,
+              "priceStr": "2.55"
+            }
+          ],
+          "selectionTypes": [
+            "HOME",
+            "AWAY"
+          ]
+        },
+        {
+          "id": 1970325220166770,
+          "name": "Games Handicap",
+          "marketTypeId": 1970324836974758,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": false,
+          "handicap": "-4",
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325756074006,
+              "name": "1 (-4)",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "HOME"
+              ],
+              "price": 1.89,
+              "priceStr": "1.89",
+              "handicap": "-4"
+            },
+            {
+              "id": 1970325756074007,
+              "name": "2 (+4)",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "AWAY"
+              ],
+              "price": 1.89,
+              "priceStr": "1.89",
+              "handicap": "+4"
+            }
+          ],
+          "selectionTypes": [
+            "AWAY",
+            "HOME"
+          ]
+        },
+        {
+          "id": 1970325220153851,
+          "name": "Total Games",
+          "marketTypeId": 1970324836974754,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": false,
+          "handicap": "37.5",
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325756044061,
+              "name": "Under (37.5)",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "UNDER"
+              ],
+              "price": 1.87,
+              "priceStr": "1.87",
+              "handicap": "37.5"
+            },
+            {
+              "id": 1970325756044062,
+              "name": "Over (37.5)",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "OVER"
+              ],
+              "price": 1.9,
+              "priceStr": "1.90",
+              "handicap": "37.5"
+            }
+          ],
+          "selectionTypes": [
+            "OVER",
+            "UNDER"
+          ]
+        },
+        {
+          "id": 1970325220163342,
+          "name": "Set 1 - Winner",
+          "marketTypeId": 1970324836976392,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": false,
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325756066298,
+              "name": "1",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "HOME"
+              ],
+              "price": 1.6,
+              "priceStr": "1.60"
+            },
+            {
+              "id": 1970325756066299,
+              "name": "2",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "AWAY"
+              ],
+              "price": 2.24,
+              "priceStr": "2.24"
+            }
+          ],
+          "selectionTypes": [
+            "AWAY",
+            "HOME"
+          ]
+        }
+      ],
+      "runnersCount": 162
+    },
+    {
+      "id": 1970324842072721,
+      "name": "Varillas Patino-Samudio, J - Hurkacz, H",
+      "nameDefault": "Varillas Patino-Samudio, J - Hurkacz, H",
+      "competitors": [
+        {
+          "id": 1970324837001782,
+          "name": "Varillas Patino-Samudio, J",
+          "homeAway": "HOME",
+          "logoSource": "SCORES",
+          "logo": "https://leonbets3.gcdn.co/HRJLWPLB/images/config_logos_v2/scores24_t_72248.png"
+        },
+        {
+          "id": 1970324836998778,
+          "name": "Hurkacz, H",
+          "homeAway": "AWAY"
+        }
+      ],
+      "kickoff": 1685718600000,
+      "lastUpdated": 1685716012122,
+      "league": {
+        "id": 1970324836987012
+      },
+      "betline": "prematch",
+      "open": true,
+      "status": "OPEN",
+      "native": true,
+      "widgetType": "NONE",
+      "widgetVirtual": false,
+      "url": "varillas-patino-samudio-j-hurkacz-h",
+      "matchPhase": "PRE_GAME",
+      "hasMarketWithZeroMargin": false,
+      "markets": [
+        {
+          "id": 1970325220170377,
+          "name": "Winner",
+          "marketTypeId": 1970324836974742,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": true,
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325756082884,
+              "name": "1",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "HOME"
+              ],
+              "price": 3.0,
+              "priceStr": "3.00"
+            },
+            {
+              "id": 1970325756082883,
+              "name": "2",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "AWAY"
+              ],
+              "price": 1.38,
+              "priceStr": "1.38"
+            }
+          ],
+          "selectionTypes": [
+            "HOME",
+            "AWAY"
+          ]
+        },
+        {
+          "id": 1970325220170395,
+          "name": "Games Handicap",
+          "marketTypeId": 1970324836974758,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": false,
+          "handicap": "5",
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325756082922,
+              "name": "1 (+5)",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "HOME"
+              ],
+              "price": 1.84,
+              "priceStr": "1.84",
+              "handicap": "+5"
+            },
+            {
+              "id": 1970325756082923,
+              "name": "2 (-5)",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "AWAY"
+              ],
+              "price": 1.94,
+              "priceStr": "1.94",
+              "handicap": "-5"
+            }
+          ],
+          "selectionTypes": [
+            "AWAY",
+            "HOME"
+          ]
+        },
+        {
+          "id": 1970325220170234,
+          "name": "Total Games",
+          "marketTypeId": 1970324836974754,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": false,
+          "handicap": "38",
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325756082552,
+              "name": "Under (38)",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "UNDER"
+              ],
+              "price": 1.91,
+              "priceStr": "1.91",
+              "handicap": "38"
+            },
+            {
+              "id": 1970325756082553,
+              "name": "Over (38)",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "OVER"
+              ],
+              "price": 1.87,
+              "priceStr": "1.87",
+              "handicap": "38"
+            }
+          ],
+          "selectionTypes": [
+            "OVER",
+            "UNDER"
+          ]
+        },
+        {
+          "id": 1970325220170397,
+          "name": "Set 1 - Winner",
+          "marketTypeId": 1970324836976392,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": false,
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325756082927,
+              "name": "1",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "HOME"
+              ],
+              "price": 2.48,
+              "priceStr": "2.48"
+            },
+            {
+              "id": 1970325756082926,
+              "name": "2",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "AWAY"
+              ],
+              "price": 1.5,
+              "priceStr": "1.50"
+            }
+          ],
+          "selectionTypes": [
+            "AWAY",
+            "HOME"
+          ]
+        }
+      ],
+      "runnersCount": 162
+    },
+    {
+      "id": 1970324842039091,
+      "name": "Schwartzman, DS - Tsitsipas, S",
+      "nameDefault": "Schwartzman, DS - Tsitsipas, S",
+      "competitors": [
+        {
+          "id": 1970324836997812,
+          "name": "Tsitsipas, S",
+          "homeAway": "AWAY"
+        },
+        {
+          "id": 1970324836997558,
+          "name": "Schwartzman, DS",
+          "homeAway": "HOME"
+        }
+      ],
+      "kickoff": 1685719800000,
+      "lastUpdated": 1685717300221,
+      "league": {
+        "id": 1970324836987012
+      },
+      "betline": "prematch",
+      "open": true,
+      "status": "OPEN",
+      "native": true,
+      "widgetType": "NONE",
+      "widgetVirtual": false,
+      "url": "schwartzman-ds-tsitsipas-s",
+      "matchPhase": "PRE_GAME",
+      "hasMarketWithZeroMargin": false,
+      "markets": [
+        {
+          "id": 1970325220064406,
+          "name": "Winner",
+          "marketTypeId": 1970324836974742,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": true,
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325755824185,
+              "name": "1",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "HOME"
+              ],
+              "price": 6.8,
+              "priceStr": "6.80"
+            },
+            {
+              "id": 1970325755824186,
+              "name": "2",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "AWAY"
+              ],
+              "price": 1.1,
+              "priceStr": "1.10"
+            }
+          ],
+          "widgetMarketType": "MatchWinner",
+          "widgetSpecifiers": {
+
+          },
+          "selectionTypes": [
+            "HOME",
+            "AWAY"
+          ]
+        },
+        {
+          "id": 1970325220064418,
+          "name": "Games Handicap",
+          "marketTypeId": 1970324836974758,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": false,
+          "handicap": "8",
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325755824211,
+              "name": "1 (+8)",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "HOME"
+              ],
+              "price": 1.83,
+              "priceStr": "1.83",
+              "handicap": "+8"
+            },
+            {
+              "id": 1970325755824210,
+              "name": "2 (-8)",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "AWAY"
+              ],
+              "price": 1.95,
+              "priceStr": "1.95",
+              "handicap": "-8"
+            }
+          ],
+          "selectionTypes": [
+            "AWAY",
+            "HOME"
+          ]
+        },
+        {
+          "id": 1970325220064407,
+          "name": "Total Games",
+          "marketTypeId": 1970324836974754,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": false,
+          "handicap": "32.5",
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325755824188,
+              "name": "Under (32.5)",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "UNDER"
+              ],
+              "price": 1.89,
+              "priceStr": "1.89",
+              "handicap": "32.5"
+            },
+            {
+              "id": 1970325755824187,
+              "name": "Over (32.5)",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "OVER"
+              ],
+              "price": 1.89,
+              "priceStr": "1.89",
+              "handicap": "32.5"
+            }
+          ],
+          "widgetMarketType": "UnderOverGames",
+          "widgetSpecifiers": {
+
+          },
+          "selectionTypes": [
+            "OVER",
+            "UNDER"
+          ]
+        },
+        {
+          "id": 1970325220064430,
+          "name": "Set 1 - Winner",
+          "marketTypeId": 1970324836976392,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": false,
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325755824236,
+              "name": "1",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "HOME"
+              ],
+              "price": 4.1,
+              "priceStr": "4.10"
+            },
+            {
+              "id": 1970325755824237,
+              "name": "2",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "AWAY"
+              ],
+              "price": 1.21,
+              "priceStr": "1.21"
+            }
+          ],
+          "selectionTypes": [
+            "AWAY",
+            "HOME"
+          ]
+        }
+      ],
+      "runnersCount": 142
+    },
+    {
+      "id": 1970324842072118,
+      "name": "Alcaraz, Carlos - Shapovalov, D",
+      "nameDefault": "Alcaraz, Carlos - Shapovalov, D",
+      "competitors": [
+        {
+          "id": 1970324836997318,
+          "name": "Shapovalov, D",
+          "homeAway": "AWAY"
+        },
+        {
+          "id": 1970324837223226,
+          "name": "Alcaraz, Carlos",
+          "homeAway": "HOME"
+        }
+      ],
+      "kickoff": 1685729700000,
+      "lastUpdated": 1685717272133,
+      "league": {
+        "id": 1970324836987012
+      },
+      "betline": "prematch",
+      "open": true,
+      "status": "OPEN",
+      "native": true,
+      "widgetType": "NONE",
+      "widgetVirtual": false,
+      "url": "alcaraz-carlos-shapovalov-d",
+      "matchPhase": "PRE_GAME",
+      "hasMarketWithZeroMargin": false,
+      "markets": [
+        {
+          "id": 1970325220112543,
+          "name": "Winner",
+          "marketTypeId": 1970324836974742,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": true,
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325755943620,
+              "name": "1",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "HOME"
+              ],
+              "price": 1.03,
+              "priceStr": "1.03"
+            },
+            {
+              "id": 1970325755943619,
+              "name": "2",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "AWAY"
+              ],
+              "price": 11.0,
+              "priceStr": "11.00"
+            }
+          ],
+          "selectionTypes": [
+            "HOME",
+            "AWAY"
+          ]
+        },
+        {
+          "id": 1970325220112523,
+          "name": "Games Handicap",
+          "marketTypeId": 1970324836974758,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": false,
+          "handicap": "-8.5",
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325755943579,
+              "name": "1 (-8.5)",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "HOME"
+              ],
+              "price": 1.79,
+              "priceStr": "1.79",
+              "handicap": "-8.5"
+            },
+            {
+              "id": 1970325755943580,
+              "name": "2 (+8.5)",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "AWAY"
+              ],
+              "price": 1.99,
+              "priceStr": "1.99",
+              "handicap": "+8.5"
+            }
+          ],
+          "selectionTypes": [
+            "AWAY",
+            "HOME"
+          ]
+        },
+        {
+          "id": 1970325220112476,
+          "name": "Total Games",
+          "marketTypeId": 1970324836974754,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": false,
+          "handicap": "29.5",
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325755943468,
+              "name": "Under (29.5)",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "UNDER"
+              ],
+              "price": 1.91,
+              "priceStr": "1.91",
+              "handicap": "29.5"
+            },
+            {
+              "id": 1970325755943467,
+              "name": "Over (29.5)",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "OVER"
+              ],
+              "price": 1.87,
+              "priceStr": "1.87",
+              "handicap": "29.5"
+            }
+          ],
+          "selectionTypes": [
+            "OVER",
+            "UNDER"
+          ]
+        },
+        {
+          "id": 1970325220112564,
+          "name": "Set 1 - Winner",
+          "marketTypeId": 1970324836976392,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": false,
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325755943665,
+              "name": "1",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "HOME"
+              ],
+              "price": 1.13,
+              "priceStr": "1.13"
+            },
+            {
+              "id": 1970325755943664,
+              "name": "2",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "AWAY"
+              ],
+              "price": 5.4,
+              "priceStr": "5.40"
+            }
+          ],
+          "selectionTypes": [
+            "AWAY",
+            "HOME"
+          ]
+        }
+      ],
+      "runnersCount": 152
+    },
+    {
+      "id": 1970324842076624,
+      "name": "Nishioka, Y - Seyboth Wild, T",
+      "nameDefault": "Nishioka, Y - Seyboth Wild, T",
+      "competitors": [
+        {
+          "id": 1970324836999743,
+          "name": "Nishioka, Y",
+          "homeAway": "HOME"
+        },
+        {
+          "id": 1970324837001785,
+          "name": "Seyboth Wild, T",
+          "homeAway": "AWAY"
+        }
+      ],
+      "kickoff": 1685782800000,
+      "lastUpdated": 1685697788855,
+      "league": {
+        "id": 1970324836987012
+      },
+      "betline": "prematch",
+      "open": true,
+      "status": "OPEN",
+      "native": true,
+      "widgetType": "NONE",
+      "widgetVirtual": false,
+      "url": "nishioka-y-seyboth-wild-t",
+      "matchPhase": "PRE_GAME",
+      "hasMarketWithZeroMargin": false,
+      "markets": [
+        {
+          "id": 1970325220499267,
+          "name": "Winner",
+          "marketTypeId": 1970324836974742,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": true,
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325756857924,
+              "name": "1",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "HOME"
+              ],
+              "price": 2.4,
+              "priceStr": "2.40"
+            },
+            {
+              "id": 1970325756857925,
+              "name": "2",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "AWAY"
+              ],
+              "price": 1.56,
+              "priceStr": "1.56"
+            }
+          ],
+          "selectionTypes": [
+            "HOME",
+            "AWAY"
+          ]
+        },
+        {
+          "id": 1970325220499276,
+          "name": "Games Handicap",
+          "marketTypeId": 1970324836974758,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": false,
+          "handicap": "3.5",
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325756857943,
+              "name": "1 (+3.5)",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "HOME"
+              ],
+              "price": 1.86,
+              "priceStr": "1.86",
+              "handicap": "+3.5"
+            },
+            {
+              "id": 1970325756857944,
+              "name": "2 (-3.5)",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "AWAY"
+              ],
+              "price": 1.91,
+              "priceStr": "1.91",
+              "handicap": "-3.5"
+            }
+          ],
+          "selectionTypes": [
+            "AWAY",
+            "HOME"
+          ]
+        },
+        {
+          "id": 1970325220499246,
+          "name": "Total Games",
+          "marketTypeId": 1970324836974754,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": false,
+          "handicap": "37.5",
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325756857882,
+              "name": "Under (37.5)",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "UNDER"
+              ],
+              "price": 1.87,
+              "priceStr": "1.87",
+              "handicap": "37.5"
+            },
+            {
+              "id": 1970325756857883,
+              "name": "Over (37.5)",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "OVER"
+              ],
+              "price": 1.9,
+              "priceStr": "1.90",
+              "handicap": "37.5"
+            }
+          ],
+          "selectionTypes": [
+            "OVER",
+            "UNDER"
+          ]
+        },
+        {
+          "id": 1970325220499290,
+          "name": "Set 1 - Winner",
+          "marketTypeId": 1970324836976392,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": false,
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325756857974,
+              "name": "1",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "HOME"
+              ],
+              "price": 2.15,
+              "priceStr": "2.15"
+            },
+            {
+              "id": 1970325756857973,
+              "name": "2",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "AWAY"
+              ],
+              "price": 1.65,
+              "priceStr": "1.65"
+            }
+          ],
+          "selectionTypes": [
+            "AWAY",
+            "HOME"
+          ]
+        }
+      ],
+      "runnersCount": 162
+    },
+    {
+      "id": 1970324842076622,
+      "name": "Zhang, Zhizhen - Ruud, C",
+      "nameDefault": "Zhang, Zhizhen - Ruud, C",
+      "competitors": [
+        {
+          "id": 1970324837001870,
+          "name": "Zhang, Zhizhen",
+          "homeAway": "HOME"
+        },
+        {
+          "id": 1970324836999761,
+          "name": "Ruud, C",
+          "homeAway": "AWAY",
+          "logoSource": "SCORES",
+          "logo": "https://leonbets3.gcdn.co/HRJLWPLB/images/config_logos_v2/scores24:t:119248.png"
+        }
+      ],
+      "kickoff": 1685782800000,
+      "lastUpdated": 1685709480434,
+      "league": {
+        "id": 1970324836987012
+      },
+      "betline": "prematch",
+      "open": true,
+      "status": "OPEN",
+      "native": true,
+      "widgetType": "NONE",
+      "widgetVirtual": false,
+      "url": "zhang-zhizhen-ruud-c",
+      "matchPhase": "PRE_GAME",
+      "hasMarketWithZeroMargin": false,
+      "markets": [
+        {
+          "id": 1970325220499352,
+          "name": "Winner",
+          "marketTypeId": 1970324836974742,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": true,
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325756858115,
+              "name": "1",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "HOME"
+              ],
+              "price": 5.8,
+              "priceStr": "5.80"
+            },
+            {
+              "id": 1970325756858116,
+              "name": "2",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "AWAY"
+              ],
+              "price": 1.13,
+              "priceStr": "1.13"
+            }
+          ],
+          "selectionTypes": [
+            "HOME",
+            "AWAY"
+          ]
+        },
+        {
+          "id": 1970325220499353,
+          "name": "Games Handicap",
+          "marketTypeId": 1970324836974758,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": false,
+          "handicap": "7.5",
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325756858118,
+              "name": "1 (+7.5)",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "HOME"
+              ],
+              "price": 1.86,
+              "priceStr": "1.86",
+              "handicap": "+7.5"
+            },
+            {
+              "id": 1970325756858117,
+              "name": "2 (-7.5)",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "AWAY"
+              ],
+              "price": 1.92,
+              "priceStr": "1.92",
+              "handicap": "-7.5"
+            }
+          ],
+          "selectionTypes": [
+            "AWAY",
+            "HOME"
+          ]
+        },
+        {
+          "id": 1970325220499370,
+          "name": "Total Games",
+          "marketTypeId": 1970324836974754,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": false,
+          "handicap": "33.5",
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325756858155,
+              "name": "Under (33.5)",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "UNDER"
+              ],
+              "price": 1.88,
+              "priceStr": "1.88",
+              "handicap": "33.5"
+            },
+            {
+              "id": 1970325756858154,
+              "name": "Over (33.5)",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "OVER"
+              ],
+              "price": 1.89,
+              "priceStr": "1.89",
+              "handicap": "33.5"
+            }
+          ],
+          "selectionTypes": [
+            "OVER",
+            "UNDER"
+          ]
+        },
+        {
+          "id": 1970325220499374,
+          "name": "Set 1 - Winner",
+          "marketTypeId": 1970324836976392,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": false,
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325756858163,
+              "name": "1",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "HOME"
+              ],
+              "price": 3.7,
+              "priceStr": "3.70"
+            },
+            {
+              "id": 1970325756858162,
+              "name": "2",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "AWAY"
+              ],
+              "price": 1.25,
+              "priceStr": "1.25"
+            }
+          ],
+          "selectionTypes": [
+            "AWAY",
+            "HOME"
+          ]
+        }
+      ],
+      "runnersCount": 164
+    },
+    {
+      "id": 1970324842076623,
+      "name": "Coric, Borna - Etcheverry, T",
+      "nameDefault": "Coric, Borna - Etcheverry, T",
+      "competitors": [
+        {
+          "id": 1970324837007743,
+          "name": "Etcheverry, T",
+          "homeAway": "AWAY"
+        },
+        {
+          "id": 1970324836975275,
+          "name": "Coric, Borna",
+          "homeAway": "HOME"
+        }
+      ],
+      "kickoff": 1685786400000,
+      "lastUpdated": 1685707778871,
+      "league": {
+        "id": 1970324836987012
+      },
+      "betline": "prematch",
+      "open": true,
+      "status": "OPEN",
+      "native": true,
+      "widgetType": "NONE",
+      "widgetVirtual": false,
+      "url": "coric-borna-etcheverry-t",
+      "matchPhase": "PRE_GAME",
+      "hasMarketWithZeroMargin": false,
+      "markets": [
+        {
+          "id": 1970325220443593,
+          "name": "Winner",
+          "marketTypeId": 1970324836974742,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": true,
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325756721233,
+              "name": "1",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "HOME"
+              ],
+              "price": 2.1,
+              "priceStr": "2.10"
+            },
+            {
+              "id": 1970325756721234,
+              "name": "2",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "AWAY"
+              ],
+              "price": 1.71,
+              "priceStr": "1.71"
+            }
+          ],
+          "selectionTypes": [
+            "HOME",
+            "AWAY"
+          ]
+        },
+        {
+          "id": 1970325220444004,
+          "name": "Games Handicap",
+          "marketTypeId": 1970324836974758,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": false,
+          "handicap": "1.5",
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325756722148,
+              "name": "1 (+1.5)",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "HOME"
+              ],
+              "price": 1.92,
+              "priceStr": "1.92",
+              "handicap": "+1.5"
+            },
+            {
+              "id": 1970325756722147,
+              "name": "2 (-1.5)",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "AWAY"
+              ],
+              "price": 1.86,
+              "priceStr": "1.86",
+              "handicap": "-1.5"
+            }
+          ],
+          "selectionTypes": [
+            "AWAY",
+            "HOME"
+          ]
+        },
+        {
+          "id": 1970325220443543,
+          "name": "Total Games",
+          "marketTypeId": 1970324836974754,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": false,
+          "handicap": "39",
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325756721128,
+              "name": "Under (39)",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "UNDER"
+              ],
+              "price": 1.87,
+              "priceStr": "1.87",
+              "handicap": "39"
+            },
+            {
+              "id": 1970325756721127,
+              "name": "Over (39)",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "OVER"
+              ],
+              "price": 1.91,
+              "priceStr": "1.91",
+              "handicap": "39"
+            }
+          ],
+          "selectionTypes": [
+            "OVER",
+            "UNDER"
+          ]
+        },
+        {
+          "id": 1970325220443518,
+          "name": "Set 1 - Winner",
+          "marketTypeId": 1970324836976392,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": false,
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325756721064,
+              "name": "1",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "HOME"
+              ],
+              "price": 1.99,
+              "priceStr": "1.99"
+            },
+            {
+              "id": 1970325756721063,
+              "name": "2",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "AWAY"
+              ],
+              "price": 1.76,
+              "priceStr": "1.76"
+            }
+          ],
+          "selectionTypes": [
+            "AWAY",
+            "HOME"
+          ]
+        }
+      ],
+      "runnersCount": 162
+    },
+    {
+      "id": 1970324842077199,
+      "name": "Jarry, N - Giron, M",
+      "nameDefault": "Jarry, N - Giron, M",
+      "competitors": [
+        {
+          "id": 1970324836999234,
+          "name": "Giron, M",
+          "homeAway": "AWAY",
+          "logoSource": "SCORES",
+          "logo": "https://leonbets3.gcdn.co/HRJLWPLB/images/config_logos_v2/scores24:t:42379.png"
+        },
+        {
+          "id": 1970324836998780,
+          "name": "Jarry, N",
+          "homeAway": "HOME"
+        }
+      ],
+      "kickoff": 1685786400000,
+      "lastUpdated": 1685711878801,
+      "league": {
+        "id": 1970324836987012
+      },
+      "betline": "prematch",
+      "open": true,
+      "status": "OPEN",
+      "native": true,
+      "widgetType": "NONE",
+      "widgetVirtual": false,
+      "url": "jarry-n-giron-m",
+      "matchPhase": "PRE_GAME",
+      "hasMarketWithZeroMargin": false,
+      "markets": [
+        {
+          "id": 1970325220538473,
+          "name": "Winner",
+          "marketTypeId": 1970324836974742,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": true,
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325756951097,
+              "name": "1",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "HOME"
+              ],
+              "price": 1.31,
+              "priceStr": "1.31"
+            },
+            {
+              "id": 1970325756951096,
+              "name": "2",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "AWAY"
+              ],
+              "price": 3.35,
+              "priceStr": "3.35"
+            }
+          ],
+          "selectionTypes": [
+            "HOME",
+            "AWAY"
+          ]
+        },
+        {
+          "id": 1970325220538469,
+          "name": "Games Handicap",
+          "marketTypeId": 1970324836974758,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": false,
+          "handicap": "-5.5",
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325756951088,
+              "name": "1 (-5.5)",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "HOME"
+              ],
+              "price": 1.93,
+              "priceStr": "1.93",
+              "handicap": "-5.5"
+            },
+            {
+              "id": 1970325756951089,
+              "name": "2 (+5.5)",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "AWAY"
+              ],
+              "price": 1.84,
+              "priceStr": "1.84",
+              "handicap": "+5.5"
+            }
+          ],
+          "selectionTypes": [
+            "AWAY",
+            "HOME"
+          ]
+        },
+        {
+          "id": 1970325220538297,
+          "name": "Total Games",
+          "marketTypeId": 1970324836974754,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": false,
+          "handicap": "37.5",
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325756950690,
+              "name": "Under (37.5)",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "UNDER"
+              ],
+              "price": 1.88,
+              "priceStr": "1.88",
+              "handicap": "37.5"
+            },
+            {
+              "id": 1970325756950689,
+              "name": "Over (37.5)",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "OVER"
+              ],
+              "price": 1.89,
+              "priceStr": "1.89",
+              "handicap": "37.5"
+            }
+          ],
+          "selectionTypes": [
+            "OVER",
+            "UNDER"
+          ]
+        },
+        {
+          "id": 1970325220538493,
+          "name": "Set 1 - Winner",
+          "marketTypeId": 1970324836976392,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": false,
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325756951139,
+              "name": "1",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "HOME"
+              ],
+              "price": 1.44,
+              "priceStr": "1.44"
+            },
+            {
+              "id": 1970325756951140,
+              "name": "2",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "AWAY"
+              ],
+              "price": 2.65,
+              "priceStr": "2.65"
+            }
+          ],
+          "selectionTypes": [
+            "AWAY",
+            "HOME"
+          ]
+        }
+      ],
+      "runnersCount": 162
+    },
+    {
+      "id": 1970324842073568,
+      "name": "Rune, H - Olivieri, G",
+      "nameDefault": "Rune, H - Olivieri, G",
+      "competitors": [
+        {
+          "id": 1970324837001754,
+          "name": "Rune, H",
+          "homeAway": "HOME"
+        },
+        {
+          "id": 1970324837053392,
+          "name": "Olivieri, G",
+          "homeAway": "AWAY"
+        }
+      ],
+      "kickoff": 1685790000000,
+      "lastUpdated": 1685712366560,
+      "league": {
+        "id": 1970324836987012
+      },
+      "betline": "prematch",
+      "open": true,
+      "status": "OPEN",
+      "native": true,
+      "widgetType": "NONE",
+      "widgetVirtual": false,
+      "url": "rune-h-olivieri-g",
+      "matchPhase": "PRE_GAME",
+      "hasMarketWithZeroMargin": false,
+      "markets": [
+        {
+          "id": 1970325220538409,
+          "name": "Winner",
+          "marketTypeId": 1970324836974742,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": true,
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325756950943,
+              "name": "1",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "HOME"
+              ],
+              "price": 1.03,
+              "priceStr": "1.03"
+            },
+            {
+              "id": 1970325756950942,
+              "name": "2",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "AWAY"
+              ],
+              "price": 11.0,
+              "priceStr": "11.00"
+            }
+          ],
+          "selectionTypes": [
+            "HOME",
+            "AWAY"
+          ]
+        },
+        {
+          "id": 1970325220584333,
+          "name": "Games Handicap",
+          "marketTypeId": 1970324836974758,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": false,
+          "handicap": "-9",
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325757058625,
+              "name": "1 (-9)",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "HOME"
+              ],
+              "price": 1.92,
+              "priceStr": "1.92",
+              "handicap": "-9"
+            },
+            {
+              "id": 1970325757058624,
+              "name": "2 (+9)",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "AWAY"
+              ],
+              "price": 1.86,
+              "priceStr": "1.86",
+              "handicap": "+9"
+            }
+          ],
+          "selectionTypes": [
+            "AWAY",
+            "HOME"
+          ]
+        },
+        {
+          "id": 1970325220584280,
+          "name": "Total Games",
+          "marketTypeId": 1970324836974754,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": false,
+          "handicap": "29",
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325757058493,
+              "name": "Under (29)",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "UNDER"
+              ],
+              "price": 1.93,
+              "priceStr": "1.93",
+              "handicap": "29"
+            },
+            {
+              "id": 1970325757058494,
+              "name": "Over (29)",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "OVER"
+              ],
+              "price": 1.85,
+              "priceStr": "1.85",
+              "handicap": "29"
+            }
+          ],
+          "selectionTypes": [
+            "OVER",
+            "UNDER"
+          ]
+        },
+        {
+          "id": 1970325220538413,
+          "name": "Set 1 - Winner",
+          "marketTypeId": 1970324836976392,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": false,
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325756950955,
+              "name": "1",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "HOME"
+              ],
+              "price": 1.12,
+              "priceStr": "1.12"
+            },
+            {
+              "id": 1970325756950956,
+              "name": "2",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "AWAY"
+              ],
+              "price": 5.6,
+              "priceStr": "5.60"
+            }
+          ],
+          "selectionTypes": [
+            "AWAY",
+            "HOME"
+          ]
+        }
+      ],
+      "runnersCount": 159
+    },
+    {
+      "id": 1970324842039093,
+      "name": "Cerundolo, F - Fritz, Taylor",
+      "nameDefault": "Cerundolo, F - Fritz, Taylor",
+      "competitors": [
+        {
+          "id": 1970324837007742,
+          "name": "Cerundolo, F",
+          "homeAway": "HOME"
+        },
+        {
+          "id": 1970324836975430,
+          "name": "Fritz, Taylor",
+          "homeAway": "AWAY"
+        }
+      ],
+      "kickoff": 1685794500000,
+      "lastUpdated": 1685711899887,
+      "league": {
+        "id": 1970324836987012
+      },
+      "betline": "prematch",
+      "open": true,
+      "status": "OPEN",
+      "native": true,
+      "widgetType": "NONE",
+      "widgetVirtual": false,
+      "url": "cerundolo-f-fritz-taylor",
+      "matchPhase": "PRE_GAME",
+      "hasMarketWithZeroMargin": false,
+      "markets": [
+        {
+          "id": 1970325220578418,
+          "name": "Winner",
+          "marketTypeId": 1970324836974742,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": true,
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325757045277,
+              "name": "1",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "HOME"
+              ],
+              "price": 2.13,
+              "priceStr": "2.13"
+            },
+            {
+              "id": 1970325757045276,
+              "name": "2",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "AWAY"
+              ],
+              "price": 1.7,
+              "priceStr": "1.70"
+            }
+          ],
+          "selectionTypes": [
+            "HOME",
+            "AWAY"
+          ]
+        },
+        {
+          "id": 1970325220597248,
+          "name": "Games Handicap",
+          "marketTypeId": 1970324836974758,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": false,
+          "handicap": "2",
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325757089190,
+              "name": "1 (+2)",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "HOME"
+              ],
+              "price": 1.89,
+              "priceStr": "1.89",
+              "handicap": "+2"
+            },
+            {
+              "id": 1970325757089189,
+              "name": "2 (-2)",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "AWAY"
+              ],
+              "price": 1.89,
+              "priceStr": "1.89",
+              "handicap": "-2"
+            }
+          ],
+          "selectionTypes": [
+            "AWAY",
+            "HOME"
+          ]
+        },
+        {
+          "id": 1970325220597230,
+          "name": "Total Games",
+          "marketTypeId": 1970324836974754,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": false,
+          "handicap": "38",
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325757089153,
+              "name": "Under (38)",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "UNDER"
+              ],
+              "price": 1.9,
+              "priceStr": "1.90",
+              "handicap": "38"
+            },
+            {
+              "id": 1970325757089154,
+              "name": "Over (38)",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "OVER"
+              ],
+              "price": 1.88,
+              "priceStr": "1.88",
+              "handicap": "38"
+            }
+          ],
+          "selectionTypes": [
+            "OVER",
+            "UNDER"
+          ]
+        },
+        {
+          "id": 1970325220578422,
+          "name": "Set 1 - Winner",
+          "marketTypeId": 1970324836976392,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": false,
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325757045289,
+              "name": "1",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "HOME"
+              ],
+              "price": 2.01,
+              "priceStr": "2.01"
+            },
+            {
+              "id": 1970325757045290,
+              "name": "2",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "AWAY"
+              ],
+              "price": 1.74,
+              "priceStr": "1.74"
+            }
+          ],
+          "selectionTypes": [
+            "AWAY",
+            "HOME"
+          ]
+        }
+      ],
+      "runnersCount": 162
+    },
+    {
+      "id": 1970324842077200,
+      "name": "Altmaier, D - Dimitrov, G",
+      "nameDefault": "Altmaier, D - Dimitrov, G",
+      "competitors": [
+        {
+          "id": 1970324836999740,
+          "name": "Dimitrov, G",
+          "homeAway": "AWAY"
+        },
+        {
+          "id": 1970324837001611,
+          "name": "Altmaier, D",
+          "homeAway": "HOME"
+        }
+      ],
+      "kickoff": 1685799000000,
+      "lastUpdated": 1685715501433,
+      "league": {
+        "id": 1970324836987012
+      },
+      "betline": "prematch",
+      "open": true,
+      "status": "OPEN",
+      "native": true,
+      "widgetType": "NONE",
+      "widgetVirtual": false,
+      "url": "altmaier-d-dimitrov-g",
+      "matchPhase": "PRE_GAME",
+      "hasMarketWithZeroMargin": false,
+      "markets": [
+        {
+          "id": 1970325220510775,
+          "name": "Winner",
+          "marketTypeId": 1970324836974742,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": true,
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325756885811,
+              "name": "1",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "HOME"
+              ],
+              "price": 3.05,
+              "priceStr": "3.05"
+            },
+            {
+              "id": 1970325756885810,
+              "name": "2",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "AWAY"
+              ],
+              "price": 1.36,
+              "priceStr": "1.36"
+            }
+          ],
+          "selectionTypes": [
+            "HOME",
+            "AWAY"
+          ]
+        },
+        {
+          "id": 1970325220522956,
+          "name": "Games Handicap",
+          "marketTypeId": 1970324836974758,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": false,
+          "handicap": "5",
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325756913610,
+              "name": "1 (+5)",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "HOME"
+              ],
+              "price": 1.91,
+              "priceStr": "1.91",
+              "handicap": "+5"
+            },
+            {
+              "id": 1970325756913609,
+              "name": "2 (-5)",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "AWAY"
+              ],
+              "price": 1.86,
+              "priceStr": "1.86",
+              "handicap": "-5"
+            }
+          ],
+          "selectionTypes": [
+            "AWAY",
+            "HOME"
+          ]
+        },
+        {
+          "id": 1970325220511928,
+          "name": "Total Games",
+          "marketTypeId": 1970324836974754,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": false,
+          "handicap": "36.5",
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325756888241,
+              "name": "Under (36.5)",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "UNDER"
+              ],
+              "price": 1.91,
+              "priceStr": "1.91",
+              "handicap": "36.5"
+            },
+            {
+              "id": 1970325756888242,
+              "name": "Over (36.5)",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "OVER"
+              ],
+              "price": 1.87,
+              "priceStr": "1.87",
+              "handicap": "36.5"
+            }
+          ],
+          "selectionTypes": [
+            "OVER",
+            "UNDER"
+          ]
+        },
+        {
+          "id": 1970325220510779,
+          "name": "Set 1 - Winner",
+          "marketTypeId": 1970324836976392,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": false,
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325756885823,
+              "name": "1",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "HOME"
+              ],
+              "price": 2.5,
+              "priceStr": "2.50"
+            },
+            {
+              "id": 1970325756885824,
+              "name": "2",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "AWAY"
+              ],
+              "price": 1.49,
+              "priceStr": "1.49"
+            }
+          ],
+          "selectionTypes": [
+            "AWAY",
+            "HOME"
+          ]
+        }
+      ],
+      "runnersCount": 162
+    },
+    {
+      "id": 1970324842071505,
+      "name": "Zverev, A - Tiafoe, F",
+      "nameDefault": "Zverev, A - Tiafoe, F",
+      "competitors": [
+        {
+          "id": 1970324836999750,
+          "name": "Tiafoe, F",
+          "homeAway": "AWAY"
+        },
+        {
+          "id": 1970324836997284,
+          "name": "Zverev, A",
+          "homeAway": "HOME"
+        }
+      ],
+      "kickoff": 1685816100000,
+      "lastUpdated": 1685713841458,
+      "league": {
+        "id": 1970324836987012
+      },
+      "betline": "prematch",
+      "open": true,
+      "status": "OPEN",
+      "native": true,
+      "widgetType": "NONE",
+      "widgetVirtual": false,
+      "url": "zverev-a-tiafoe-f",
+      "matchPhase": "PRE_GAME",
+      "hasMarketWithZeroMargin": false,
+      "markets": [
+        {
+          "id": 1970325220580508,
+          "name": "Winner",
+          "marketTypeId": 1970324836974742,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": true,
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325757049918,
+              "name": "1",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "HOME"
+              ],
+              "price": 1.4,
+              "priceStr": "1.40"
+            },
+            {
+              "id": 1970325757049917,
+              "name": "2",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "AWAY"
+              ],
+              "price": 2.9,
+              "priceStr": "2.90"
+            }
+          ],
+          "selectionTypes": [
+            "HOME",
+            "AWAY"
+          ]
+        },
+        {
+          "id": 1970325220581420,
+          "name": "Games Handicap",
+          "marketTypeId": 1970324836974758,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": false,
+          "handicap": "-4.5",
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325757051937,
+              "name": "1 (-4.5)",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "HOME"
+              ],
+              "price": 1.87,
+              "priceStr": "1.87",
+              "handicap": "-4.5"
+            },
+            {
+              "id": 1970325757051938,
+              "name": "2 (+4.5)",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "AWAY"
+              ],
+              "price": 1.9,
+              "priceStr": "1.90",
+              "handicap": "+4.5"
+            }
+          ],
+          "selectionTypes": [
+            "AWAY",
+            "HOME"
+          ]
+        },
+        {
+          "id": 1970325220581396,
+          "name": "Total Games",
+          "marketTypeId": 1970324836974754,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": false,
+          "handicap": "38",
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325757051889,
+              "name": "Under (38)",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "UNDER"
+              ],
+              "price": 1.87,
+              "priceStr": "1.87",
+              "handicap": "38"
+            },
+            {
+              "id": 1970325757051890,
+              "name": "Over (38)",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "OVER"
+              ],
+              "price": 1.9,
+              "priceStr": "1.90",
+              "handicap": "38"
+            }
+          ],
+          "selectionTypes": [
+            "OVER",
+            "UNDER"
+          ]
+        },
+        {
+          "id": 1970325220580512,
+          "name": "Set 1 - Winner",
+          "marketTypeId": 1970324836976392,
+          "open": true,
+          "hasZeroMargin": false,
+          "primary": false,
+          "cols": 2,
+          "runners": [
+            {
+              "id": 1970325757049930,
+              "name": "1",
+              "open": true,
+              "r": 0,
+              "c": 0,
+              "tags": [
+                "HOME"
+              ],
+              "price": 1.52,
+              "priceStr": "1.52"
+            },
+            {
+              "id": 1970325757049931,
+              "name": "2",
+              "open": true,
+              "r": 0,
+              "c": 1,
+              "tags": [
+                "AWAY"
+              ],
+              "price": 2.42,
+              "priceStr": "2.42"
+            }
+          ],
+          "selectionTypes": [
+            "AWAY",
+            "HOME"
+          ]
+        }
+      ],
+      "runnersCount": 162
+    },
+    {
+      "id": 1970324842054631,
+      "name": "ATP - French Open 2023 - Quarter 3 - Winner",
+      "nameDefault": "ATP - French Open 2023 - Quarter 3 - Winner",
+      "competitors": [
+
+      ],
+      "kickoff": 1685782800000,
+      "lastUpdated": 1685704916924,
+      "league": {
+        "id": 1970324836987012
+      },
+      "betline": "outright",
+      "open": true,
+      "status": "OPEN",
+      "native": true,
+      "widgetType": "NONE",
+      "widgetVirtual": false,
+      "url": "atp-french-open-2023-quarter-3-winner",
+      "matchPhase": "PRE_GAME",
+      "hasMarketWithZeroMargin": false,
+      "runnersCount": 8
+    },
+    {
+      "id": 1970324842054642,
+      "name": "ATP - French Open 2023 - Quarter 4 - Winner",
+      "nameDefault": "ATP - French Open 2023 - Quarter 4 - Winner",
+      "competitors": [
+
+      ],
+      "kickoff": 1685782800000,
+      "lastUpdated": 1685704916998,
+      "league": {
+        "id": 1970324836987012
+      },
+      "betline": "outright",
+      "open": true,
+      "status": "OPEN",
+      "native": true,
+      "widgetType": "NONE",
+      "widgetVirtual": false,
+      "url": "atp-french-open-2023-quarter-4-winner",
+      "matchPhase": "PRE_GAME",
+      "hasMarketWithZeroMargin": false,
+      "runnersCount": 8
+    },
+    {
+      "id": 1970324842058173,
+      "name": "ATP - French Open 2023 - Stage of Elimination - A. Zverev",
+      "nameDefault": "ATP - French Open 2023 - Stage of Elimination - A. Zverev",
+      "competitors": [
+
+      ],
+      "kickoff": 1685782800000,
+      "lastUpdated": 1685707687151,
+      "league": {
+        "id": 1970324836987012
+      },
+      "betline": "outright",
+      "open": true,
+      "status": "OPEN",
+      "native": true,
+      "widgetType": "NONE",
+      "widgetVirtual": false,
+      "url": "atp-french-open-2023-stage-of-elimination-a-zverev",
+      "matchPhase": "PRE_GAME",
+      "hasMarketWithZeroMargin": false,
+      "runnersCount": 6
+    },
+    {
+      "id": 1970324842058189,
+      "name": "ATP - French Open 2023 - Stage of Elimination - C. Ruud",
+      "nameDefault": "ATP - French Open 2023 - Stage of Elimination - C. Ruud",
+      "competitors": [
+
+      ],
+      "kickoff": 1685782800000,
+      "lastUpdated": 1685707533833,
+      "league": {
+        "id": 1970324836987012
+      },
+      "betline": "outright",
+      "open": true,
+      "status": "OPEN",
+      "native": true,
+      "widgetType": "NONE",
+      "widgetVirtual": false,
+      "url": "atp-french-open-2023-stage-of-elimination-c-ruud",
+      "matchPhase": "PRE_GAME",
+      "hasMarketWithZeroMargin": false,
+      "runnersCount": 6
+    },
+    {
+      "id": 1970324842058194,
+      "name": "ATP - French Open 2023 - Stage of Elimination - G. Dimitrov",
+      "nameDefault": "ATP - French Open 2023 - Stage of Elimination - G. Dimitrov",
+      "competitors": [
+
+      ],
+      "kickoff": 1685782800000,
+      "lastUpdated": 1685707177760,
+      "league": {
+        "id": 1970324836987012
+      },
+      "betline": "outright",
+      "open": true,
+      "status": "OPEN",
+      "native": true,
+      "widgetType": "NONE",
+      "widgetVirtual": false,
+      "url": "atp-french-open-2023-stage-of-elimination-g-dimitrov",
+      "matchPhase": "PRE_GAME",
+      "hasMarketWithZeroMargin": false,
+      "runnersCount": 6
+    },
+    {
+      "id": 1970324842058213,
+      "name": "ATP - French Open 2023 - Stage of Elimination - H. Rune",
+      "nameDefault": "ATP - French Open 2023 - Stage of Elimination - H. Rune",
+      "competitors": [
+
+      ],
+      "kickoff": 1685782800000,
+      "lastUpdated": 1685707377610,
+      "league": {
+        "id": 1970324836987012
+      },
+      "betline": "outright",
+      "open": true,
+      "status": "OPEN",
+      "native": true,
+      "widgetType": "NONE",
+      "widgetVirtual": false,
+      "url": "atp-french-open-2023-stage-of-elimination-h-rune",
+      "matchPhase": "PRE_GAME",
+      "hasMarketWithZeroMargin": false,
+      "runnersCount": 6
+    },
+    {
+      "id": 1970324842058172,
+      "name": "ATP - French Open 2023 - Stage of Elimination - T. Fritz",
+      "nameDefault": "ATP - French Open 2023 - Stage of Elimination - T. Fritz",
+      "competitors": [
+
+      ],
+      "kickoff": 1685782800000,
+      "lastUpdated": 1685707274837,
+      "league": {
+        "id": 1970324836987012
+      },
+      "betline": "outright",
+      "open": true,
+      "status": "OPEN",
+      "native": true,
+      "widgetType": "NONE",
+      "widgetVirtual": false,
+      "url": "atp-french-open-2023-stage-of-elimination-t-fritz",
+      "matchPhase": "PRE_GAME",
+      "hasMarketWithZeroMargin": false,
+      "runnersCount": 6
+    }
+  ]
+}

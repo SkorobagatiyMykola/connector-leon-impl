@@ -1,0 +1,8230 @@
+{
+  "id": 1970324842016631,
+  "name": "Manchester City - Inter Milan",
+  "nameDefault": "Manchester City - Inter Milan",
+  "competitors": [
+    {
+      "id": 1970324836982748,
+      "name": "Manchester City",
+      "homeAway": "HOME"
+    },
+    {
+      "id": 1970324837370578,
+      "name": "Inter Milan",
+      "homeAway": "AWAY"
+    }
+  ],
+  "kickoff": 1686423600000,
+  "lastUpdated": 1685717121675,
+  "league": {
+    "id": 1970324836980123,
+    "sport": {
+      "id": 1970324836974595,
+      "name": "Football",
+      "weight": 999,
+      "family": "Soccer",
+      "mainMarkets": [
+        {
+          "id": 1970324836974645,
+          "name": "Winner",
+          "weight": 1,
+          "altMarketTypeIds": [
+
+          ],
+          "virtual": false
+        },
+        {
+          "id": 1970324836975100,
+          "name": "Handicap",
+          "weight": 2,
+          "altMarketTypeIds": [
+            1970324836974637,
+            1970324836978002,
+            1970324836978003
+          ],
+          "virtual": false
+        },
+        {
+          "id": 1970324836974992,
+          "name": "Totals",
+          "weight": 3,
+          "altMarketTypeIds": [
+            1970324836974991
+          ],
+          "virtual": false
+        },
+        {
+          "id": 1970324836974998,
+          "name": "Half-time Winner",
+          "weight": 4,
+          "altMarketTypeIds": [
+            1970324836976487,
+            1970324836975017
+          ],
+          "virtual": false
+        }
+      ],
+      "url": "soccer",
+      "marketGroups": [
+        {
+          "id": 1970324836974593,
+          "name": "Main",
+          "marketTypeIds": [
+            1970324836977961,
+            1970324836974637,
+            1970324836977453,
+            1970324836974988,
+            1970324836975054,
+            1970324836974992,
+            1970324836978002,
+            1970324836974994,
+            1970324836974645,
+            1970324836975093,
+            1970324836978004,
+            1970324836974998,
+            1970324836978549,
+            1970324836974650,
+            1970324836975005,
+            1970324836975100,
+            1970324836975007,
+            1970324836977600,
+            1970324836974656,
+            1970324836977602,
+            1970324836978019,
+            1970324836977604,
+            1970324836976485,
+            1970324836977445,
+            1970324836976487,
+            1970324836977962,
+            1970324836974989,
+            1970324836975020,
+            1970324836975055,
+            1970324836974991,
+            1970324836974993,
+            1970324836975121,
+            1970324836978524,
+            1970324836978003,
+            1970324836974999,
+            1970324836975158,
+            1970324836974649,
+            1970324836974651,
+            1970324836974653,
+            1970324836977471,
+            1970324836977603,
+            1970324836977605,
+            1970324836976486
+          ],
+          "virtual": false
+        },
+        {
+          "id": 1970324836974615,
+          "name": "Handicaps",
+          "marketTypeIds": [
+            1970324836978503,
+            1970324836974987,
+            1970324836974637,
+            1970324836978002,
+            1970324836975091,
+            1970324836978003,
+            1970324836974994,
+            1970324836978004,
+            1970324836978005,
+            1970324836975094,
+            1970324836975096,
+            1970324836975003,
+            1970324836975100,
+            1970324836975004,
+            1970324836978504
+          ],
+          "virtual": false
+        },
+        {
+          "id": 1970324836974616,
+          "name": "Totals",
+          "marketTypeIds": [
+            1970324836975048,
+            1970324836977449,
+            1970324836977963,
+            1970324836977451,
+            1970324836974988,
+            1970324836977839,
+            1970324836974990,
+            1970324836974992,
+            1970324836975056,
+            1970324836977843,
+            1970324836975032,
+            1970324836975098,
+            1970324836975034,
+            1970324836975005,
+            1970324836975036,
+            1970324836975007,
+            1970324836977448,
+            1970324836975016,
+            1970324836977450,
+            1970324836975051,
+            1970324836974989,
+            1970324836977452,
+            1970324836974991,
+            1970324836974993,
+            1970324836975057,
+            1970324836974995,
+            1970324836977842,
+            1970324836975033,
+            1970324836975035,
+            1970324836975006,
+            1970324836975008,
+            1970324836977543
+          ],
+          "virtual": false
+        },
+        {
+          "id": 1970324836974594,
+          "name": "1st Half",
+          "marketTypeIds": [
+            1970324836974987,
+            1970324836974989,
+            1970324836975020,
+            1970324836974990,
+            1970324836978032,
+            1970324836974994,
+            1970324836974997,
+            1970324836978004,
+            1970324836978005,
+            1970324836974999,
+            1970324836974647,
+            1970324836974998,
+            1970324836975000,
+            1970324836975002,
+            1970324836978019,
+            1970324836977443,
+            1970324836977542,
+            1970324836977447
+          ],
+          "virtual": false
+        },
+        {
+          "id": 1970324836974596,
+          "name": "2nd Half",
+          "marketTypeIds": [
+            1970324836975017,
+            1970324836975098,
+            1970324836975052,
+            1970324836977839,
+            1970324836977842,
+            1970324836975091,
+            1970324836977843,
+            1970324836978506,
+            1970324836977846,
+            1970324836977446,
+            1970324836975095,
+            1970324836975094
+          ],
+          "virtual": false
+        },
+        {
+          "id": 1970324836974595,
+          "name": "Corners",
+          "marketTypeIds": [
+            1970324836978534,
+            1970324836977483,
+            1970324836978528,
+            1970324836975157,
+            1970324836975159,
+            1970324836977462,
+            1970324836975158,
+            1970324836978007,
+            1970324836977463,
+            1970324836975161,
+            1970324836977464,
+            1970324836978008,
+            1970324836975160,
+            1970324836977465,
+            1970324836978517,
+            1970324836977466,
+            1970324836977467,
+            1970324836977468,
+            1970324836978542,
+            1970324836977633,
+            1970324836977635,
+            1970324836976483,
+            1970324836978507,
+            1970324836977636
+          ],
+          "virtual": false
+        },
+        {
+          "id": 1970324836974597,
+          "name": "Cards",
+          "marketTypeIds": [
+            1970324836977480,
+            1970324836978533,
+            1970324836977482,
+            1970324836978523,
+            1970324836978521,
+            1970324836978488,
+            1970324836978487,
+            1970324836978485,
+            1970324836978516,
+            1970324836978547,
+            1970324836978545,
+            1970324836977470,
+            1970324836978543,
+            1970324836977472,
+            1970324836977474,
+            1970324836977478,
+            1970324836978524,
+            1970324836978460,
+            1970324836978489,
+            1970324836978520,
+            1970324836978486,
+            1970324836978548,
+            1970324836978515,
+            1970324836978546,
+            1970324836978544,
+            1970324836977471,
+            1970324836977473,
+            1970324836977477,
+            1970324836977479
+          ],
+          "virtual": false
+        },
+        {
+          "id": 1970324836974613,
+          "name": "Quick",
+          "marketTypeIds": [
+            1970324836977457,
+            1970324836977618,
+            1970324836977459,
+            1970324836977620,
+            1970324836977461,
+            1970324836977622,
+            1970324836977625,
+            1970324836977627,
+            1970324836977629,
+            1970324836977631,
+            1970324836978510,
+            1970324836978508,
+            1970324836977476,
+            1970324836977617,
+            1970324836977458,
+            1970324836977619,
+            1970324836977460,
+            1970324836977621,
+            1970324836977623,
+            1970324836977624,
+            1970324836977626,
+            1970324836977628,
+            1970324836977630,
+            1970324836978511,
+            1970324836978509,
+            1970324836977475,
+            1970324836978507,
+            1970324836978505
+          ],
+          "virtual": false
+        },
+        {
+          "id": 1970324836974614,
+          "name": "Stats",
+          "marketTypeIds": [
+            1970324836978532,
+            1970324836978526,
+            1970324836978557,
+            1970324836978525,
+            1970324836978556,
+            1970324836978555,
+            1970324836978522,
+            1970324836978554,
+            1970324836978519,
+            1970324836978518,
+            1970324836978514,
+            1970324836978513,
+            1970324836978511,
+            1970324836978540,
+            1970324836978539,
+            1970324836978538
+          ],
+          "virtual": false
+        }
+      ]
+    },
+    "name": "UEFA Champions League",
+    "nameDefault": "UEFA Champions League",
+    "url": "uefa-champions-league",
+    "weight": 1,
+    "prematch": 1,
+    "inplay": 0,
+    "outright": 0,
+    "top": true,
+    "hasZeroMarginEvents": false,
+    "topOrder": 0,
+    "region": {
+      "id": 1970324836975078,
+      "name": "Europe",
+      "nameDefault": "Europe",
+      "family": "WORLD",
+      "url": "europe"
+    }
+  },
+  "betline": "prematch",
+  "open": true,
+  "status": "OPEN",
+  "native": true,
+  "widgetType": "NONE",
+  "widgetVirtual": false,
+  "url": "manchester-city-inter-milan",
+  "matchPhase": "PRE_GAME",
+  "hasMarketWithZeroMargin": false,
+  "markets": [
+    {
+      "id": 1970325214048842,
+      "name": "Winner",
+      "marketTypeId": 1970324836974645,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": true,
+      "cols": 3,
+      "runners": [
+        {
+          "id": 1970325741165312,
+          "name": "1",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 1.42,
+          "priceStr": "1.42"
+        },
+        {
+          "id": 1970325741165311,
+          "name": "X",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "DRAW"
+          ],
+          "price": 4.89,
+          "priceStr": "4.89"
+        },
+        {
+          "id": 1970325741165310,
+          "name": "2",
+          "open": true,
+          "r": 0,
+          "c": 2,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 7.1,
+          "priceStr": "7.10"
+        }
+      ],
+      "selectionTypes": [
+        "HOME",
+        "AWAY",
+        "DRAW"
+      ]
+    },
+    {
+      "id": 1970325214048816,
+      "name": "Team To Qualify",
+      "marketTypeId": 1970324836975054,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165234,
+          "name": "1",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 1.18,
+          "priceStr": "1.18"
+        },
+        {
+          "id": 1970325741165235,
+          "name": "2",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 4.35,
+          "priceStr": "4.35"
+        }
+      ],
+      "selectionTypes": [
+        "HOME",
+        "AWAY"
+      ]
+    },
+    {
+      "id": 1970325214048878,
+      "name": "Double Chance",
+      "marketTypeId": 1970324836974649,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 3,
+      "runners": [
+        {
+          "id": 1970325741165401,
+          "name": "1X",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOMEDRAW"
+          ],
+          "price": 1.1,
+          "priceStr": "1.10"
+        },
+        {
+          "id": 1970325741165400,
+          "name": "12",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "HOMEAWAY"
+          ],
+          "price": 1.17,
+          "priceStr": "1.17"
+        },
+        {
+          "id": 1970325741165399,
+          "name": "X2",
+          "open": true,
+          "r": 0,
+          "c": 2,
+          "tags": [
+            "DRAWAWAY"
+          ],
+          "price": 2.8,
+          "priceStr": "2.80"
+        }
+      ],
+      "selectionTypes": [
+        "HOMEDRAW",
+        "HOMEAWAY",
+        "DRAWAWAY"
+      ]
+    },
+    {
+      "id": 1970325214053671,
+      "name": "Draw No Bet",
+      "marketTypeId": 1970324836974650,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741176690,
+          "name": "1",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 1.17,
+          "priceStr": "1.17"
+        },
+        {
+          "id": 1970325741176689,
+          "name": "2",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 5.4,
+          "priceStr": "5.40"
+        }
+      ],
+      "selectionTypes": [
+        "AWAY",
+        "HOME"
+      ]
+    },
+    {
+      "id": 1970325214048929,
+      "name": "Handicap",
+      "marketTypeId": 1970324836978002,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "-3.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165534,
+          "name": "1 (-3.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 7.4,
+          "priceStr": "7.40",
+          "handicap": "-3.5"
+        },
+        {
+          "id": 1970325741165533,
+          "name": "2 (+3.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 1.1,
+          "priceStr": "1.10",
+          "handicap": "+3.5"
+        }
+      ],
+      "selectionTypes": [
+        "AWAY",
+        "HOME"
+      ]
+    },
+    {
+      "id": 1970325214048866,
+      "name": "Handicap",
+      "marketTypeId": 1970324836978002,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "-3",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165371,
+          "name": "1 (-3)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 6.6,
+          "priceStr": "6.60",
+          "handicap": "-3"
+        },
+        {
+          "id": 1970325741165372,
+          "name": "2 (+3)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 1.12,
+          "priceStr": "1.12",
+          "handicap": "+3"
+        }
+      ],
+      "selectionTypes": [
+        "AWAY",
+        "HOME"
+      ]
+    },
+    {
+      "id": 1970325214048908,
+      "name": "Handicap",
+      "marketTypeId": 1970324836978002,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "-2.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165488,
+          "name": "1 (-2.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 3.89,
+          "priceStr": "3.89",
+          "handicap": "-2.5"
+        },
+        {
+          "id": 1970325741165489,
+          "name": "2 (+2.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 1.27,
+          "priceStr": "1.27",
+          "handicap": "+2.5"
+        }
+      ],
+      "selectionTypes": [
+        "AWAY",
+        "HOME"
+      ]
+    },
+    {
+      "id": 1970325214048906,
+      "name": "Handicap",
+      "marketTypeId": 1970324836978002,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "-2",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165485,
+          "name": "1 (-2)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 3.17,
+          "priceStr": "3.17",
+          "handicap": "-2"
+        },
+        {
+          "id": 1970325741165484,
+          "name": "2 (+2)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 1.37,
+          "priceStr": "1.37",
+          "handicap": "+2"
+        }
+      ],
+      "selectionTypes": [
+        "AWAY",
+        "HOME"
+      ]
+    },
+    {
+      "id": 1970325214048900,
+      "name": "Handicap",
+      "marketTypeId": 1970324836978002,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "-1.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165473,
+          "name": "1 (-1.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 2.19,
+          "priceStr": "2.19",
+          "handicap": "-1.5"
+        },
+        {
+          "id": 1970325741165472,
+          "name": "2 (+1.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 1.7,
+          "priceStr": "1.70",
+          "handicap": "+1.5"
+        }
+      ],
+      "selectionTypes": [
+        "AWAY",
+        "HOME"
+      ]
+    },
+    {
+      "id": 1970325214048920,
+      "name": "Handicap",
+      "marketTypeId": 1970324836978002,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "-1",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165514,
+          "name": "1 (-1)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 1.68,
+          "priceStr": "1.68",
+          "handicap": "-1"
+        },
+        {
+          "id": 1970325741165515,
+          "name": "2 (+1)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 2.23,
+          "priceStr": "2.23",
+          "handicap": "+1"
+        }
+      ],
+      "selectionTypes": [
+        "AWAY",
+        "HOME"
+      ]
+    },
+    {
+      "id": 1970325214057794,
+      "name": "Handicap",
+      "marketTypeId": 1970324836978002,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "-0.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741186477,
+          "name": "1 (-0.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 1.43,
+          "priceStr": "1.43",
+          "handicap": "-0.5"
+        },
+        {
+          "id": 1970325741186476,
+          "name": "2 (+0.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 2.9,
+          "priceStr": "2.90",
+          "handicap": "+0.5"
+        }
+      ],
+      "selectionTypes": [
+        "AWAY",
+        "HOME"
+      ]
+    },
+    {
+      "id": 1970325214048838,
+      "name": "Handicap",
+      "marketTypeId": 1970324836978002,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "0",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165301,
+          "name": "1 (0)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 1.17,
+          "priceStr": "1.17",
+          "handicap": "0"
+        },
+        {
+          "id": 1970325741165302,
+          "name": "2 (0)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 5.3,
+          "priceStr": "5.30",
+          "handicap": "0"
+        }
+      ],
+      "selectionTypes": [
+        "AWAY",
+        "HOME"
+      ]
+    },
+    {
+      "id": 1970325214057793,
+      "name": "Handicap",
+      "marketTypeId": 1970324836978002,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "0.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741186475,
+          "name": "1 (+0.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 1.14,
+          "priceStr": "1.14",
+          "handicap": "+0.5"
+        },
+        {
+          "id": 1970325741186474,
+          "name": "2 (-0.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 6.1,
+          "priceStr": "6.10",
+          "handicap": "-0.5"
+        }
+      ],
+      "selectionTypes": [
+        "AWAY",
+        "HOME"
+      ]
+    },
+    {
+      "id": 1970325214048803,
+      "name": "Asian Handicap",
+      "marketTypeId": 1970324836978003,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "-2.75",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165204,
+          "name": "1 (-2.75)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 4.94,
+          "priceStr": "4.94",
+          "handicap": "-2.75"
+        },
+        {
+          "id": 1970325741165205,
+          "name": "2 (+2.75)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 1.19,
+          "priceStr": "1.19",
+          "handicap": "+2.75"
+        }
+      ],
+      "selectionTypes": [
+        "AWAY",
+        "HOME"
+      ]
+    },
+    {
+      "id": 1970325214048864,
+      "name": "Asian Handicap",
+      "marketTypeId": 1970324836978003,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "-2.25",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165367,
+          "name": "1 (-2.25)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 3.5,
+          "priceStr": "3.50",
+          "handicap": "-2.25"
+        },
+        {
+          "id": 1970325741165368,
+          "name": "2 (+2.25)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 1.32,
+          "priceStr": "1.32",
+          "handicap": "+2.25"
+        }
+      ],
+      "selectionTypes": [
+        "AWAY",
+        "HOME"
+      ]
+    },
+    {
+      "id": 1970325214048901,
+      "name": "Asian Handicap",
+      "marketTypeId": 1970324836978003,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "-1.75",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165474,
+          "name": "1 (-1.75)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 2.51,
+          "priceStr": "2.51",
+          "handicap": "-1.75"
+        },
+        {
+          "id": 1970325741165475,
+          "name": "2 (+1.75)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 1.55,
+          "priceStr": "1.55",
+          "handicap": "+1.75"
+        }
+      ],
+      "selectionTypes": [
+        "AWAY",
+        "HOME"
+      ]
+    },
+    {
+      "id": 1970325214048811,
+      "name": "Asian Handicap",
+      "marketTypeId": 1970324836978003,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "-1.25",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165223,
+          "name": "1 (-1.25)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 1.93,
+          "priceStr": "1.93",
+          "handicap": "-1.25"
+        },
+        {
+          "id": 1970325741165224,
+          "name": "2 (+1.25)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 1.9,
+          "priceStr": "1.90",
+          "handicap": "+1.25"
+        }
+      ],
+      "selectionTypes": [
+        "AWAY",
+        "HOME"
+      ]
+    },
+    {
+      "id": 1970325214048863,
+      "name": "Asian Handicap",
+      "marketTypeId": 1970324836978003,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "-0.75",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165365,
+          "name": "1 (-0.75)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 1.53,
+          "priceStr": "1.53",
+          "handicap": "-0.75"
+        },
+        {
+          "id": 1970325741165366,
+          "name": "2 (+0.75)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 2.55,
+          "priceStr": "2.55",
+          "handicap": "+0.75"
+        }
+      ],
+      "selectionTypes": [
+        "AWAY",
+        "HOME"
+      ]
+    },
+    {
+      "id": 1970325214048896,
+      "name": "Asian Handicap",
+      "marketTypeId": 1970324836978003,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "-0.25",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165464,
+          "name": "1 (-0.25)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 1.3,
+          "priceStr": "1.30",
+          "handicap": "-0.25"
+        },
+        {
+          "id": 1970325741165463,
+          "name": "2 (+0.25)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 3.63,
+          "priceStr": "3.63",
+          "handicap": "+0.25"
+        }
+      ],
+      "selectionTypes": [
+        "AWAY",
+        "HOME"
+      ]
+    },
+    {
+      "id": 1970325214048907,
+      "name": "Asian Handicap",
+      "marketTypeId": 1970324836978003,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "0.75",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165487,
+          "name": "1 (+0.75)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 1.07,
+          "priceStr": "1.07",
+          "handicap": "+0.75"
+        },
+        {
+          "id": 1970325741165486,
+          "name": "2 (-0.75)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 9.0,
+          "priceStr": "9.00",
+          "handicap": "-0.75"
+        }
+      ],
+      "selectionTypes": [
+        "AWAY",
+        "HOME"
+      ]
+    },
+    {
+      "id": 1970325214051666,
+      "name": "Over/Under",
+      "marketTypeId": 1970324836974992,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "0.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741171992,
+          "name": "Under (0.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 12.3,
+          "priceStr": "12.30",
+          "handicap": "0.5"
+        },
+        {
+          "id": 1970325741171993,
+          "name": "Over (0.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 1.04,
+          "priceStr": "1.04",
+          "handicap": "0.5"
+        }
+      ],
+      "selectionTypes": [
+        "UNDER",
+        "OVER"
+      ]
+    },
+    {
+      "id": 1970325214048899,
+      "name": "Over/Under",
+      "marketTypeId": 1970324836974992,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "1",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165471,
+          "name": "Under (1)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 9.7,
+          "priceStr": "9.70",
+          "handicap": "1"
+        },
+        {
+          "id": 1970325741165470,
+          "name": "Over (1)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 1.06,
+          "priceStr": "1.06",
+          "handicap": "1"
+        }
+      ],
+      "selectionTypes": [
+        "UNDER",
+        "OVER"
+      ]
+    },
+    {
+      "id": 1970325214048837,
+      "name": "Over/Under",
+      "marketTypeId": 1970324836974992,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "1.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165299,
+          "name": "Under (1.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 4.31,
+          "priceStr": "4.31",
+          "handicap": "1.5"
+        },
+        {
+          "id": 1970325741165300,
+          "name": "Over (1.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 1.23,
+          "priceStr": "1.23",
+          "handicap": "1.5"
+        }
+      ],
+      "selectionTypes": [
+        "UNDER",
+        "OVER"
+      ]
+    },
+    {
+      "id": 1970325214048810,
+      "name": "Over/Under",
+      "marketTypeId": 1970324836974992,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "2",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165221,
+          "name": "Under (2)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 3.34,
+          "priceStr": "3.34",
+          "handicap": "2"
+        },
+        {
+          "id": 1970325741165222,
+          "name": "Over (2)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 1.34,
+          "priceStr": "1.34",
+          "handicap": "2"
+        }
+      ],
+      "selectionTypes": [
+        "UNDER",
+        "OVER"
+      ]
+    },
+    {
+      "id": 1970325214048895,
+      "name": "Over/Under",
+      "marketTypeId": 1970324836974992,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "2.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165461,
+          "name": "Under (2.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 2.13,
+          "priceStr": "2.13",
+          "handicap": "2.5"
+        },
+        {
+          "id": 1970325741165462,
+          "name": "Over (2.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 1.74,
+          "priceStr": "1.74",
+          "handicap": "2.5"
+        }
+      ],
+      "selectionTypes": [
+        "UNDER",
+        "OVER"
+      ]
+    },
+    {
+      "id": 1970325214048861,
+      "name": "Over/Under",
+      "marketTypeId": 1970324836974992,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "3",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165360,
+          "name": "Under (3)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.7,
+          "priceStr": "1.70",
+          "handicap": "3"
+        },
+        {
+          "id": 1970325741165362,
+          "name": "Over (3)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 2.19,
+          "priceStr": "2.19",
+          "handicap": "3"
+        }
+      ],
+      "selectionTypes": [
+        "UNDER",
+        "OVER"
+      ]
+    },
+    {
+      "id": 1970325214048802,
+      "name": "Over/Under",
+      "marketTypeId": 1970324836974992,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "3.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165203,
+          "name": "Under (3.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.47,
+          "priceStr": "1.47",
+          "handicap": "3.5"
+        },
+        {
+          "id": 1970325741165202,
+          "name": "Over (3.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 2.75,
+          "priceStr": "2.75",
+          "handicap": "3.5"
+        }
+      ],
+      "selectionTypes": [
+        "UNDER",
+        "OVER"
+      ]
+    },
+    {
+      "id": 1970325214048909,
+      "name": "Over/Under",
+      "marketTypeId": 1970324836974992,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "4",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165491,
+          "name": "Under (4)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.24,
+          "priceStr": "1.24",
+          "handicap": "4"
+        },
+        {
+          "id": 1970325741165490,
+          "name": "Over (4)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 4.18,
+          "priceStr": "4.18",
+          "handicap": "4"
+        }
+      ],
+      "selectionTypes": [
+        "UNDER",
+        "OVER"
+      ]
+    },
+    {
+      "id": 1970325214048846,
+      "name": "Over/Under",
+      "marketTypeId": 1970324836974992,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "4.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165320,
+          "name": "Under (4.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.19,
+          "priceStr": "1.19",
+          "handicap": "4.5"
+        },
+        {
+          "id": 1970325741165321,
+          "name": "Over (4.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 4.95,
+          "priceStr": "4.95",
+          "handicap": "4.5"
+        }
+      ],
+      "selectionTypes": [
+        "UNDER",
+        "OVER"
+      ]
+    },
+    {
+      "id": 1970325214048828,
+      "name": "Over/Under",
+      "marketTypeId": 1970324836974992,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165278,
+          "name": "Under (5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.09,
+          "priceStr": "1.09",
+          "handicap": "5"
+        },
+        {
+          "id": 1970325741165277,
+          "name": "Over (5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 7.8,
+          "priceStr": "7.80",
+          "handicap": "5"
+        }
+      ],
+      "selectionTypes": [
+        "UNDER",
+        "OVER"
+      ]
+    },
+    {
+      "id": 1970325214048831,
+      "name": "Over/Under",
+      "marketTypeId": 1970324836974992,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "5.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165284,
+          "name": "Under (5.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.06,
+          "priceStr": "1.06",
+          "handicap": "5.5"
+        },
+        {
+          "id": 1970325741165285,
+          "name": "Over (5.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 9.5,
+          "priceStr": "9.50",
+          "handicap": "5.5"
+        }
+      ],
+      "selectionTypes": [
+        "UNDER",
+        "OVER"
+      ]
+    },
+    {
+      "id": 1970325214053007,
+      "name": "Over/Under",
+      "marketTypeId": 1970324836974992,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "6.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741174989,
+          "name": "Over (6.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 20.8,
+          "priceStr": "20.80",
+          "handicap": "6.5"
+        }
+      ],
+      "selectionTypes": [
+        "UNDER",
+        "OVER"
+      ]
+    },
+    {
+      "id": 1970325214048849,
+      "name": "Over/Under (Asian)",
+      "marketTypeId": 1970324836974991,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "1.25",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165326,
+          "name": "Under (1.25)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 5.8,
+          "priceStr": "5.80",
+          "handicap": "1.25"
+        },
+        {
+          "id": 1970325741165327,
+          "name": "Over (1.25)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 1.15,
+          "priceStr": "1.15",
+          "handicap": "1.25"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325214048890,
+      "name": "Over/Under (Asian)",
+      "marketTypeId": 1970324836974991,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "1.75",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165427,
+          "name": "Under (1.75)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 3.66,
+          "priceStr": "3.66",
+          "handicap": "1.75"
+        },
+        {
+          "id": 1970325741165428,
+          "name": "Over (1.75)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 1.3,
+          "priceStr": "1.30",
+          "handicap": "1.75"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325214048903,
+      "name": "Over/Under (Asian)",
+      "marketTypeId": 1970324836974991,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "2.25",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165478,
+          "name": "Under (2.25)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 2.5,
+          "priceStr": "2.50",
+          "handicap": "2.25"
+        },
+        {
+          "id": 1970325741165479,
+          "name": "Over (2.25)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 1.55,
+          "priceStr": "1.55",
+          "handicap": "2.25"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325214048806,
+      "name": "Over/Under (Asian)",
+      "marketTypeId": 1970324836974991,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "2.75",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165210,
+          "name": "Under (2.75)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.91,
+          "priceStr": "1.91",
+          "handicap": "2.75"
+        },
+        {
+          "id": 1970325741165211,
+          "name": "Over (2.75)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 1.91,
+          "priceStr": "1.91",
+          "handicap": "2.75"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325214048804,
+      "name": "Over/Under (Asian)",
+      "marketTypeId": 1970324836974991,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "3.25",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165206,
+          "name": "Under (3.25)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.56,
+          "priceStr": "1.56",
+          "handicap": "3.25"
+        },
+        {
+          "id": 1970325741165207,
+          "name": "Over (3.25)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 2.48,
+          "priceStr": "2.48",
+          "handicap": "3.25"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325214048932,
+      "name": "Over/Under (Asian)",
+      "marketTypeId": 1970324836974991,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "3.75",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165539,
+          "name": "Under (3.75)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.34,
+          "priceStr": "1.34",
+          "handicap": "3.75"
+        },
+        {
+          "id": 1970325741165540,
+          "name": "Over (3.75)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 3.33,
+          "priceStr": "3.33",
+          "handicap": "3.75"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325214048924,
+      "name": "Over/Under (Asian)",
+      "marketTypeId": 1970324836974991,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "4.25",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165522,
+          "name": "Under (4.25)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.2,
+          "priceStr": "1.20",
+          "handicap": "4.25"
+        },
+        {
+          "id": 1970325741165523,
+          "name": "Over (4.25)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 4.69,
+          "priceStr": "4.69",
+          "handicap": "4.25"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325214048812,
+      "name": "Over/Under (Asian)",
+      "marketTypeId": 1970324836974991,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "4.75",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165225,
+          "name": "Under (4.75)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.12,
+          "priceStr": "1.12",
+          "handicap": "4.75"
+        },
+        {
+          "id": 1970325741165226,
+          "name": "Over (4.75)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 6.4,
+          "priceStr": "6.40",
+          "handicap": "4.75"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325214048814,
+      "name": "Both Teams to Score",
+      "marketTypeId": 1970324836974656,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165229,
+          "name": "Yes",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "YES"
+          ],
+          "price": 1.98,
+          "priceStr": "1.98"
+        },
+        {
+          "id": 1970325741165230,
+          "name": "No",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "NO"
+          ],
+          "price": 1.84,
+          "priceStr": "1.84"
+        }
+      ],
+      "selectionTypes": [
+        "NO",
+        "YES"
+      ]
+    },
+    {
+      "id": 1970325214048889,
+      "name": "First Team to Score",
+      "marketTypeId": 1970324836974653,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 3,
+      "runners": [
+        {
+          "id": 1970325741165424,
+          "name": "1",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 1.38,
+          "priceStr": "1.38"
+        },
+        {
+          "id": 1970325741165425,
+          "name": "2",
+          "open": true,
+          "r": 0,
+          "c": 2,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 3.67,
+          "priceStr": "3.67"
+        },
+        {
+          "id": 1970325741165426,
+          "name": "X",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "OTHER"
+          ],
+          "price": 13.4,
+          "priceStr": "13.40"
+        }
+      ],
+      "selectionTypes": [
+        "AWAY",
+        "HOME",
+        "OTHER"
+      ]
+    },
+    {
+      "id": 1970325214048841,
+      "name": "1st half: Result",
+      "marketTypeId": 1970324836974998,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 3,
+      "runners": [
+        {
+          "id": 1970325741165309,
+          "name": "1",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 1.92,
+          "priceStr": "1.92"
+        },
+        {
+          "id": 1970325741165308,
+          "name": "X",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "DRAW"
+          ],
+          "price": 2.52,
+          "priceStr": "2.52"
+        },
+        {
+          "id": 1970325741165307,
+          "name": "2",
+          "open": true,
+          "r": 0,
+          "c": 2,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 6.8,
+          "priceStr": "6.80"
+        }
+      ],
+      "selectionTypes": [
+        "DRAW",
+        "HOME",
+        "AWAY"
+      ]
+    },
+    {
+      "id": 1970325214048807,
+      "name": "1st Half: Double Chance",
+      "marketTypeId": 1970324836974999,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 3,
+      "runners": [
+        {
+          "id": 1970325741165212,
+          "name": "1X",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOMEDRAW"
+          ],
+          "price": 1.08,
+          "priceStr": "1.08"
+        },
+        {
+          "id": 1970325741165213,
+          "name": "12",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "HOMEAWAY"
+          ],
+          "price": 1.48,
+          "priceStr": "1.48"
+        },
+        {
+          "id": 1970325741165214,
+          "name": "X2",
+          "open": true,
+          "r": 0,
+          "c": 2,
+          "tags": [
+            "DRAWAWAY"
+          ],
+          "price": 1.81,
+          "priceStr": "1.81"
+        }
+      ],
+      "selectionTypes": [
+        "DRAWAWAY",
+        "HOMEDRAW",
+        "HOMEAWAY"
+      ]
+    },
+    {
+      "id": 1970325214068211,
+      "name": "1st half: Handicap",
+      "marketTypeId": 1970324836978504,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "-3",
+      "cols": 3,
+      "runners": [
+        {
+          "id": 1970325741210898,
+          "name": "1 (0:3)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 40.0,
+          "priceStr": "40.00",
+          "handicap": "0:3"
+        },
+        {
+          "id": 1970325741210897,
+          "name": "X (0:3)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "DRAW"
+          ],
+          "price": 16.6,
+          "priceStr": "16.60",
+          "handicap": "0:3"
+        },
+        {
+          "id": 1970325741210899,
+          "name": "2 (0:3)",
+          "open": true,
+          "r": 0,
+          "c": 2,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 1.01,
+          "priceStr": "1.01",
+          "handicap": "0:3"
+        }
+      ],
+      "selectionTypes": [
+        "AWAY",
+        "DRAW",
+        "HOME"
+      ]
+    },
+    {
+      "id": 1970325214068210,
+      "name": "1st half: Handicap",
+      "marketTypeId": 1970324836978504,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "-2",
+      "cols": 3,
+      "runners": [
+        {
+          "id": 1970325741210895,
+          "name": "1 (0:2)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 13.3,
+          "priceStr": "13.30",
+          "handicap": "0:2"
+        },
+        {
+          "id": 1970325741210896,
+          "name": "X (0:2)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "DRAW"
+          ],
+          "price": 6.1,
+          "priceStr": "6.10",
+          "handicap": "0:2"
+        },
+        {
+          "id": 1970325741210894,
+          "name": "2 (0:2)",
+          "open": true,
+          "r": 0,
+          "c": 2,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 1.19,
+          "priceStr": "1.19",
+          "handicap": "0:2"
+        }
+      ],
+      "selectionTypes": [
+        "AWAY",
+        "DRAW",
+        "HOME"
+      ]
+    },
+    {
+      "id": 1970325214053333,
+      "name": "1st half: Handicap",
+      "marketTypeId": 1970324836978504,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "-1",
+      "cols": 3,
+      "runners": [
+        {
+          "id": 1970325741175773,
+          "name": "1 (0:1)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 4.69,
+          "priceStr": "4.69",
+          "handicap": "0:1"
+        },
+        {
+          "id": 1970325741175774,
+          "name": "X (0:1)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "DRAW"
+          ],
+          "price": 3.0,
+          "priceStr": "3.00",
+          "handicap": "0:1"
+        },
+        {
+          "id": 1970325741175772,
+          "name": "2 (0:1)",
+          "open": true,
+          "r": 0,
+          "c": 2,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 1.88,
+          "priceStr": "1.88",
+          "handicap": "0:1"
+        }
+      ],
+      "selectionTypes": [
+        "AWAY",
+        "DRAW",
+        "HOME"
+      ]
+    },
+    {
+      "id": 1970325214068212,
+      "name": "1st half: Handicap",
+      "marketTypeId": 1970324836978504,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "1",
+      "cols": 3,
+      "runners": [
+        {
+          "id": 1970325741210902,
+          "name": "1 (1:0)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 1.13,
+          "priceStr": "1.13",
+          "handicap": "1:0"
+        },
+        {
+          "id": 1970325741210901,
+          "name": "X (1:0)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "DRAW"
+          ],
+          "price": 6.7,
+          "priceStr": "6.70",
+          "handicap": "1:0"
+        },
+        {
+          "id": 1970325741210900,
+          "name": "2 (1:0)",
+          "open": true,
+          "r": 0,
+          "c": 2,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 23.6,
+          "priceStr": "23.60",
+          "handicap": "1:0"
+        }
+      ],
+      "selectionTypes": [
+        "AWAY",
+        "DRAW",
+        "HOME"
+      ]
+    },
+    {
+      "id": 1970325214048883,
+      "name": "1st Half: Handicap",
+      "marketTypeId": 1970324836978004,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "-2.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165412,
+          "name": "1 (-2.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 12.9,
+          "priceStr": "12.90",
+          "handicap": "-2.5"
+        },
+        {
+          "id": 1970325741165411,
+          "name": "2 (+2.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 1.02,
+          "priceStr": "1.02",
+          "handicap": "+2.5"
+        }
+      ],
+      "selectionTypes": [
+        "AWAY",
+        "HOME"
+      ]
+    },
+    {
+      "id": 1970325214048820,
+      "name": "1st Half: Handicap",
+      "marketTypeId": 1970324836978004,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "-2",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165243,
+          "name": "1 (-2)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 11.6,
+          "priceStr": "11.60",
+          "handicap": "-2"
+        },
+        {
+          "id": 1970325741165242,
+          "name": "2 (+2)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 1.03,
+          "priceStr": "1.03",
+          "handicap": "+2"
+        }
+      ],
+      "selectionTypes": [
+        "AWAY",
+        "HOME"
+      ]
+    },
+    {
+      "id": 1970325214048916,
+      "name": "1st Half: Handicap",
+      "marketTypeId": 1970324836978004,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "-1.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165506,
+          "name": "1 (-1.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 4.66,
+          "priceStr": "4.66",
+          "handicap": "-1.5"
+        },
+        {
+          "id": 1970325741165507,
+          "name": "2 (+1.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 1.19,
+          "priceStr": "1.19",
+          "handicap": "+1.5"
+        }
+      ],
+      "selectionTypes": [
+        "AWAY",
+        "HOME"
+      ]
+    },
+    {
+      "id": 1970325214048868,
+      "name": "1st Half: Handicap",
+      "marketTypeId": 1970324836978004,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "-1",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165376,
+          "name": "1 (-1)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 3.45,
+          "priceStr": "3.45",
+          "handicap": "-1"
+        },
+        {
+          "id": 1970325741165377,
+          "name": "2 (+1)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 1.31,
+          "priceStr": "1.31",
+          "handicap": "+1"
+        }
+      ],
+      "selectionTypes": [
+        "AWAY",
+        "HOME"
+      ]
+    },
+    {
+      "id": 1970325214053230,
+      "name": "1st Half: Handicap",
+      "marketTypeId": 1970324836978004,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "-0.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741175540,
+          "name": "1 (-0.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 1.95,
+          "priceStr": "1.95",
+          "handicap": "-0.5"
+        },
+        {
+          "id": 1970325741175539,
+          "name": "2 (+0.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 1.85,
+          "priceStr": "1.85",
+          "handicap": "+0.5"
+        }
+      ],
+      "selectionTypes": [
+        "AWAY",
+        "HOME"
+      ]
+    },
+    {
+      "id": 1970325214048818,
+      "name": "1st Half: Handicap",
+      "marketTypeId": 1970324836978004,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "0",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165239,
+          "name": "1 (0)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 1.23,
+          "priceStr": "1.23",
+          "handicap": "0"
+        },
+        {
+          "id": 1970325741165238,
+          "name": "2 (0)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 4.15,
+          "priceStr": "4.15",
+          "handicap": "0"
+        }
+      ],
+      "selectionTypes": [
+        "AWAY",
+        "HOME"
+      ]
+    },
+    {
+      "id": 1970325214069584,
+      "name": "1st Half: Handicap",
+      "marketTypeId": 1970324836978004,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "0.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741214336,
+          "name": "1 (+0.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 1.11,
+          "priceStr": "1.11",
+          "handicap": "+0.5"
+        },
+        {
+          "id": 1970325741214337,
+          "name": "2 (-0.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 6.4,
+          "priceStr": "6.40",
+          "handicap": "-0.5"
+        }
+      ],
+      "selectionTypes": [
+        "AWAY",
+        "HOME"
+      ]
+    },
+    {
+      "id": 1970325214069586,
+      "name": "1st half: Asian Handicap",
+      "marketTypeId": 1970324836978005,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "-1.75",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741214341,
+          "name": "1 (-1.75)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 6.6,
+          "priceStr": "6.60",
+          "handicap": "-1.75"
+        },
+        {
+          "id": 1970325741214340,
+          "name": "2 (+1.75)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 1.11,
+          "priceStr": "1.11",
+          "handicap": "+1.75"
+        }
+      ],
+      "selectionTypes": [
+        "HOME",
+        "AWAY"
+      ]
+    },
+    {
+      "id": 1970325214069582,
+      "name": "1st half: Asian Handicap",
+      "marketTypeId": 1970324836978005,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "-1.25",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741214332,
+          "name": "1 (-1.25)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 4.03,
+          "priceStr": "4.03",
+          "handicap": "-1.25"
+        },
+        {
+          "id": 1970325741214333,
+          "name": "2 (+1.25)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 1.24,
+          "priceStr": "1.24",
+          "handicap": "+1.25"
+        }
+      ],
+      "selectionTypes": [
+        "HOME",
+        "AWAY"
+      ]
+    },
+    {
+      "id": 1970325214069583,
+      "name": "1st half: Asian Handicap",
+      "marketTypeId": 1970324836978005,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "-0.75",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741214335,
+          "name": "1 (-0.75)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 2.36,
+          "priceStr": "2.36",
+          "handicap": "-0.75"
+        },
+        {
+          "id": 1970325741214334,
+          "name": "2 (+0.75)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 1.58,
+          "priceStr": "1.58",
+          "handicap": "+0.75"
+        }
+      ],
+      "selectionTypes": [
+        "HOME",
+        "AWAY"
+      ]
+    },
+    {
+      "id": 1970325214069581,
+      "name": "1st half: Asian Handicap",
+      "marketTypeId": 1970324836978005,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "-0.25",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741214331,
+          "name": "1 (-0.25)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 1.58,
+          "priceStr": "1.58",
+          "handicap": "-0.25"
+        },
+        {
+          "id": 1970325741214330,
+          "name": "2 (+0.25)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 2.36,
+          "priceStr": "2.36",
+          "handicap": "+0.25"
+        }
+      ],
+      "selectionTypes": [
+        "HOME",
+        "AWAY"
+      ]
+    },
+    {
+      "id": 1970325214069585,
+      "name": "1st half: Asian Handicap",
+      "marketTypeId": 1970324836978005,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "0.25",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741214338,
+          "name": "1 (+0.25)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 1.15,
+          "priceStr": "1.15",
+          "handicap": "+0.25"
+        },
+        {
+          "id": 1970325741214339,
+          "name": "2 (-0.25)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 5.5,
+          "priceStr": "5.50",
+          "handicap": "-0.25"
+        }
+      ],
+      "selectionTypes": [
+        "HOME",
+        "AWAY"
+      ]
+    },
+    {
+      "id": 1970325214048859,
+      "name": "1st half: Totals Over/Under",
+      "marketTypeId": 1970324836974989,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "0.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165358,
+          "name": "Under (0.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 3.36,
+          "priceStr": "3.36",
+          "handicap": "0.5"
+        },
+        {
+          "id": 1970325741165357,
+          "name": "Over (0.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 1.34,
+          "priceStr": "1.34",
+          "handicap": "0.5"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325214048840,
+      "name": "1st half: Totals Over/Under",
+      "marketTypeId": 1970324836974989,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "1",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165305,
+          "name": "Under (1)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 2.19,
+          "priceStr": "2.19",
+          "handicap": "1"
+        },
+        {
+          "id": 1970325741165306,
+          "name": "Over (1)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 1.7,
+          "priceStr": "1.70",
+          "handicap": "1"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325214048904,
+      "name": "1st half: Totals Over/Under",
+      "marketTypeId": 1970324836974989,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "1.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165480,
+          "name": "Under (1.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.53,
+          "priceStr": "1.53",
+          "handicap": "1.5"
+        },
+        {
+          "id": 1970325741165481,
+          "name": "Over (1.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 2.56,
+          "priceStr": "2.56",
+          "handicap": "1.5"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325214048882,
+      "name": "1st half: Totals Over/Under",
+      "marketTypeId": 1970324836974989,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "2",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165410,
+          "name": "Under (2)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.19,
+          "priceStr": "1.19",
+          "handicap": "2"
+        },
+        {
+          "id": 1970325741165409,
+          "name": "Over (2)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 4.93,
+          "priceStr": "4.93",
+          "handicap": "2"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325214048822,
+      "name": "1st half: Totals Over/Under",
+      "marketTypeId": 1970324836974989,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "2.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165258,
+          "name": "Under (2.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.14,
+          "priceStr": "1.14",
+          "handicap": "2.5"
+        },
+        {
+          "id": 1970325741165259,
+          "name": "Over (2.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 6.0,
+          "priceStr": "6.00",
+          "handicap": "2.5"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325214048850,
+      "name": "1st half: Totals Over/Under (Asian)",
+      "marketTypeId": 1970324836974990,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "0.75",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165328,
+          "name": "Under (0.75)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 2.71,
+          "priceStr": "2.71",
+          "handicap": "0.75"
+        },
+        {
+          "id": 1970325741165329,
+          "name": "Over (0.75)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 1.46,
+          "priceStr": "1.46",
+          "handicap": "0.75"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325214048918,
+      "name": "1st half: Totals Over/Under (Asian)",
+      "marketTypeId": 1970324836974990,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "1.25",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165510,
+          "name": "Under (1.25)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.71,
+          "priceStr": "1.71",
+          "handicap": "1.25"
+        },
+        {
+          "id": 1970325741165511,
+          "name": "Over (1.25)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 2.12,
+          "priceStr": "2.12",
+          "handicap": "1.25"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325214048824,
+      "name": "1st half: Totals Over/Under (Asian)",
+      "marketTypeId": 1970324836974990,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "1.75",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165263,
+          "name": "Under (1.75)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.34,
+          "priceStr": "1.34",
+          "handicap": "1.75"
+        },
+        {
+          "id": 1970325741165262,
+          "name": "Over (1.75)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 3.26,
+          "priceStr": "3.26",
+          "handicap": "1.75"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325214048836,
+      "name": "1st half: Totals Over/Under (Asian)",
+      "marketTypeId": 1970324836974990,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "2.25",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165297,
+          "name": "Under (2.25)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.14,
+          "priceStr": "1.14",
+          "handicap": "2.25"
+        },
+        {
+          "id": 1970325741165298,
+          "name": "Over (2.25)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 5.6,
+          "priceStr": "5.60",
+          "handicap": "2.25"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325214048858,
+      "name": "1st half: Correct Score",
+      "marketTypeId": 1970324836974997,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 3,
+      "runners": [
+        {
+          "id": 1970325741165346,
+          "name": "0:0",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "SCORE"
+          ],
+          "price": 3.08,
+          "priceStr": "3.08"
+        },
+        {
+          "id": 1970325741165347,
+          "name": "0:1",
+          "open": true,
+          "r": 0,
+          "c": 2,
+          "tags": [
+            "SCORE"
+          ],
+          "price": 8.3,
+          "priceStr": "8.30"
+        },
+        {
+          "id": 1970325741165353,
+          "name": "1:0",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "SCORE"
+          ],
+          "price": 3.12,
+          "priceStr": "3.12"
+        },
+        {
+          "id": 1970325741165354,
+          "name": "1:1",
+          "open": true,
+          "r": 1,
+          "c": 1,
+          "tags": [
+            "SCORE"
+          ],
+          "price": 8.5,
+          "priceStr": "8.50"
+        },
+        {
+          "id": 1970325741165348,
+          "name": "2:0",
+          "open": true,
+          "r": 1,
+          "c": 0,
+          "tags": [
+            "SCORE"
+          ],
+          "price": 6.7,
+          "priceStr": "6.70"
+        },
+        {
+          "id": 1970325741165355,
+          "name": "0:2",
+          "open": true,
+          "r": 1,
+          "c": 2,
+          "tags": [
+            "SCORE"
+          ],
+          "price": 39.0,
+          "priceStr": "39.00"
+        },
+        {
+          "id": 1970325741165351,
+          "name": "1:2",
+          "open": true,
+          "r": 2,
+          "c": 2,
+          "tags": [
+            "SCORE"
+          ],
+          "price": 39.0,
+          "priceStr": "39.00"
+        },
+        {
+          "id": 1970325741165352,
+          "name": "2:1",
+          "open": true,
+          "r": 2,
+          "c": 0,
+          "tags": [
+            "SCORE"
+          ],
+          "price": 17.3,
+          "priceStr": "17.30"
+        },
+        {
+          "id": 1970325741165349,
+          "name": "2:2",
+          "open": true,
+          "r": 2,
+          "c": 1,
+          "tags": [
+            "SCORE"
+          ],
+          "price": 62.0,
+          "priceStr": "62.00"
+        },
+        {
+          "id": 1970325741165350,
+          "name": "3:0",
+          "open": true,
+          "r": 3,
+          "c": 0,
+          "tags": [
+            "SCORE"
+          ],
+          "price": 19.2,
+          "priceStr": "19.20"
+        },
+        {
+          "id": 1970325741165356,
+          "name": "3:1",
+          "open": true,
+          "r": 4,
+          "c": 0,
+          "tags": [
+            "SCORE"
+          ],
+          "price": 44.0,
+          "priceStr": "44.00"
+        },
+        {
+          "id": 1970325741165345,
+          "name": "4:0",
+          "open": true,
+          "r": 5,
+          "c": 0,
+          "tags": [
+            "SCORE"
+          ],
+          "price": 56.0,
+          "priceStr": "56.00"
+        }
+      ]
+    },
+    {
+      "id": 1970325214048830,
+      "name": "1st half: Both Teams To Score Yes/No",
+      "marketTypeId": 1970324836975020,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165283,
+          "name": "Yes",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "YES"
+          ],
+          "price": 4.77,
+          "priceStr": "4.77"
+        },
+        {
+          "id": 1970325741165282,
+          "name": "No",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "NO"
+          ],
+          "price": 1.16,
+          "priceStr": "1.16"
+        }
+      ],
+      "selectionTypes": [
+        "NO",
+        "YES"
+      ]
+    },
+    {
+      "id": 1970325214048875,
+      "name": "Result After 15 Minutes",
+      "marketTypeId": 1970324836978026,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 3,
+      "runners": [
+        {
+          "id": 1970325741165392,
+          "name": "1",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 4.07,
+          "priceStr": "4.07"
+        },
+        {
+          "id": 1970325741165393,
+          "name": "X",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "DRAW"
+          ],
+          "price": 1.34,
+          "priceStr": "1.34"
+        },
+        {
+          "id": 1970325741165394,
+          "name": "2",
+          "open": true,
+          "r": 0,
+          "c": 2,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 11.6,
+          "priceStr": "11.60"
+        }
+      ],
+      "selectionTypes": [
+        "AWAY",
+        "HOME",
+        "DRAW"
+      ]
+    },
+    {
+      "id": 1970325214051662,
+      "name": "Home Team Total Goals Over/Under",
+      "marketTypeId": 1970324836975005,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "0.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741171984,
+          "name": "Under (0.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 6.7,
+          "priceStr": "6.70",
+          "handicap": "0.5"
+        },
+        {
+          "id": 1970325741171985,
+          "name": "Over (0.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 1.1,
+          "priceStr": "1.10",
+          "handicap": "0.5"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325214048801,
+      "name": "Home Team Total Goals Over/Under",
+      "marketTypeId": 1970324836975005,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "1",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165201,
+          "name": "Under (1)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 5.3,
+          "priceStr": "5.30",
+          "handicap": "1"
+        },
+        {
+          "id": 1970325741165200,
+          "name": "Over (1)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 1.15,
+          "priceStr": "1.15",
+          "handicap": "1"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325214048893,
+      "name": "Home Team Total Goals Over/Under",
+      "marketTypeId": 1970324836975005,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "1.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165456,
+          "name": "Under (1.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 2.47,
+          "priceStr": "2.47",
+          "handicap": "1.5"
+        },
+        {
+          "id": 1970325741165457,
+          "name": "Over (1.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 1.53,
+          "priceStr": "1.53",
+          "handicap": "1.5"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325214048847,
+      "name": "Home Team Total Goals Over/Under",
+      "marketTypeId": 1970324836975005,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "2",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165323,
+          "name": "Under (2)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.84,
+          "priceStr": "1.84",
+          "handicap": "2"
+        },
+        {
+          "id": 1970325741165322,
+          "name": "Over (2)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 1.94,
+          "priceStr": "1.94",
+          "handicap": "2"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325214048813,
+      "name": "Home Team Total Goals Over/Under",
+      "marketTypeId": 1970324836975005,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "2.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165228,
+          "name": "Under (2.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.5,
+          "priceStr": "1.50",
+          "handicap": "2.5"
+        },
+        {
+          "id": 1970325741165227,
+          "name": "Over (2.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 2.55,
+          "priceStr": "2.55",
+          "handicap": "2.5"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325214048905,
+      "name": "Home Team Total Goals Over/Under",
+      "marketTypeId": 1970324836975005,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "3",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165482,
+          "name": "Under (3)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.22,
+          "priceStr": "1.22",
+          "handicap": "3"
+        },
+        {
+          "id": 1970325741165483,
+          "name": "Over (3)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 4.11,
+          "priceStr": "4.11",
+          "handicap": "3"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325214048862,
+      "name": "Home Team Total Goals Over/Under",
+      "marketTypeId": 1970324836975005,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "3.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165363,
+          "name": "Under (3.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.16,
+          "priceStr": "1.16",
+          "handicap": "3.5"
+        },
+        {
+          "id": 1970325741165364,
+          "name": "Over (3.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 4.98,
+          "priceStr": "4.98",
+          "handicap": "3.5"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325214051660,
+      "name": "Home Team Total Goals Over/Under",
+      "marketTypeId": 1970324836975005,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "4",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741171980,
+          "name": "Under (4)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.07,
+          "priceStr": "1.07",
+          "handicap": "4"
+        },
+        {
+          "id": 1970325741171981,
+          "name": "Over (4)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 7.8,
+          "priceStr": "7.80",
+          "handicap": "4"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325214051661,
+      "name": "Home Team Total Goals Over/Under",
+      "marketTypeId": 1970324836975005,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "4.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741171982,
+          "name": "Under (4.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.03,
+          "priceStr": "1.03",
+          "handicap": "4.5"
+        },
+        {
+          "id": 1970325741171983,
+          "name": "Over (4.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 11.3,
+          "priceStr": "11.30",
+          "handicap": "4.5"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325214051663,
+      "name": "Away Team Total Goals Over/Under",
+      "marketTypeId": 1970324836974993,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "0.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741171986,
+          "name": "Under (0.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 2.19,
+          "priceStr": "2.19",
+          "handicap": "0.5"
+        },
+        {
+          "id": 1970325741171987,
+          "name": "Over (0.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 1.66,
+          "priceStr": "1.66",
+          "handicap": "0.5"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325214048931,
+      "name": "Away Team Total Goals Over/Under",
+      "marketTypeId": 1970324836974993,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "1",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165538,
+          "name": "Under (1)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.36,
+          "priceStr": "1.36",
+          "handicap": "1"
+        },
+        {
+          "id": 1970325741165537,
+          "name": "Over (1)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 3.07,
+          "priceStr": "3.07",
+          "handicap": "1"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325214048817,
+      "name": "Away Team Total Goals Over/Under",
+      "marketTypeId": 1970324836974993,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "1.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165236,
+          "name": "Under (1.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.19,
+          "priceStr": "1.19",
+          "handicap": "1.5"
+        },
+        {
+          "id": 1970325741165237,
+          "name": "Over (1.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 4.56,
+          "priceStr": "4.56",
+          "handicap": "1.5"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325214048917,
+      "name": "Away Team Total Goals Over/Under",
+      "marketTypeId": 1970324836974993,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "2",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165508,
+          "name": "Under (2)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.02,
+          "priceStr": "1.02",
+          "handicap": "2"
+        },
+        {
+          "id": 1970325741165509,
+          "name": "Over (2)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 12.3,
+          "priceStr": "12.30",
+          "handicap": "2"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325214048876,
+      "name": "Away Team Total Goals Over/Under",
+      "marketTypeId": 1970324836974993,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "2.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165396,
+          "name": "Under (2.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.01,
+          "priceStr": "1.01",
+          "handicap": "2.5"
+        },
+        {
+          "id": 1970325741165395,
+          "name": "Over (2.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 14.2,
+          "priceStr": "14.20",
+          "handicap": "2.5"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325214051664,
+      "name": "1st half: Home Team Total Goals Over/Under",
+      "marketTypeId": 1970324836974988,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "0.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741171989,
+          "name": "Under (0.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 2.38,
+          "priceStr": "2.38",
+          "handicap": "0.5"
+        },
+        {
+          "id": 1970325741171988,
+          "name": "Over (0.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 1.54,
+          "priceStr": "1.54",
+          "handicap": "0.5"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325214048855,
+      "name": "1st half: Home Team Total Goals Over/Under",
+      "marketTypeId": 1970324836974988,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "1",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165337,
+          "name": "Under (1)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.52,
+          "priceStr": "1.52",
+          "handicap": "1"
+        },
+        {
+          "id": 1970325741165339,
+          "name": "Over (1)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 2.43,
+          "priceStr": "2.43",
+          "handicap": "1"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325214048819,
+      "name": "1st half: Home Team Total Goals Over/Under",
+      "marketTypeId": 1970324836974988,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "1.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165240,
+          "name": "Under (1.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.27,
+          "priceStr": "1.27",
+          "handicap": "1.5"
+        },
+        {
+          "id": 1970325741165241,
+          "name": "Over (1.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 3.56,
+          "priceStr": "3.56",
+          "handicap": "1.5"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325214048911,
+      "name": "1st half: Home Team Total Goals Over/Under",
+      "marketTypeId": 1970324836974988,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "2",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165495,
+          "name": "Under (2)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.04,
+          "priceStr": "1.04",
+          "handicap": "2"
+        },
+        {
+          "id": 1970325741165494,
+          "name": "Over (2)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 9.1,
+          "priceStr": "9.10",
+          "handicap": "2"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325214048928,
+      "name": "1st half: Away Team Total Goals Over/Under",
+      "marketTypeId": 1970324836975007,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "0.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165532,
+          "name": "Under (0.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.35,
+          "priceStr": "1.35",
+          "handicap": "0.5"
+        },
+        {
+          "id": 1970325741165531,
+          "name": "Over (0.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 3.03,
+          "priceStr": "3.03",
+          "handicap": "0.5"
+        }
+      ],
+      "selectionTypes": [
+        "UNDER",
+        "OVER"
+      ]
+    },
+    {
+      "id": 1970325214048897,
+      "name": "1st half: Away Team Total Goals Over/Under",
+      "marketTypeId": 1970324836975007,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "1",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165465,
+          "name": "Under (1)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.02,
+          "priceStr": "1.02",
+          "handicap": "1"
+        },
+        {
+          "id": 1970325741165466,
+          "name": "Over (1)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 10.9,
+          "priceStr": "10.90",
+          "handicap": "1"
+        }
+      ],
+      "selectionTypes": [
+        "UNDER",
+        "OVER"
+      ]
+    },
+    {
+      "id": 1970325214048844,
+      "name": "1st half: Away Team Total Goals Over/Under",
+      "marketTypeId": 1970324836975007,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "1.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165316,
+          "name": "Under (1.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.01,
+          "priceStr": "1.01",
+          "handicap": "1.5"
+        },
+        {
+          "id": 1970325741165315,
+          "name": "Over (1.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 13.2,
+          "priceStr": "13.20",
+          "handicap": "1.5"
+        }
+      ],
+      "selectionTypes": [
+        "UNDER",
+        "OVER"
+      ]
+    },
+    {
+      "id": 1970325217697224,
+      "name": "Corners: Over/Under",
+      "marketTypeId": 1970324836975158,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "7.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325750004383,
+          "name": "Under (7.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 4.1,
+          "priceStr": "4.10",
+          "handicap": "7.5"
+        },
+        {
+          "id": 1970325750004384,
+          "name": "Over (7.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 1.21,
+          "priceStr": "1.21",
+          "handicap": "7.5"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325217697221,
+      "name": "Corners: Over/Under",
+      "marketTypeId": 1970324836975158,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "12.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325750004378,
+          "name": "Under (12.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.25,
+          "priceStr": "1.25",
+          "handicap": "12.5"
+        },
+        {
+          "id": 1970325750004377,
+          "name": "Over (12.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 3.7,
+          "priceStr": "3.70",
+          "handicap": "12.5"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325217697216,
+      "name": "Corners: Over/Under",
+      "marketTypeId": 1970324836975158,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "13.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325750004368,
+          "name": "Under (13.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.14,
+          "priceStr": "1.14",
+          "handicap": "13.5"
+        },
+        {
+          "id": 1970325750004367,
+          "name": "Over (13.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 5.2,
+          "priceStr": "5.20",
+          "handicap": "13.5"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325217697215,
+      "name": "Corners: Over/Under",
+      "marketTypeId": 1970324836975158,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "14.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325750004366,
+          "name": "Under (14.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.07,
+          "priceStr": "1.07",
+          "handicap": "14.5"
+        },
+        {
+          "id": 1970325750004365,
+          "name": "Over (14.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 7.5,
+          "priceStr": "7.50",
+          "handicap": "14.5"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325217697222,
+      "name": "Corners: Home Team Total",
+      "marketTypeId": 1970324836977466,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "4.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325750004379,
+          "name": "Under (4.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 3.96,
+          "priceStr": "3.96",
+          "handicap": "4.5"
+        },
+        {
+          "id": 1970325750004380,
+          "name": "Over (4.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 1.21,
+          "priceStr": "1.21",
+          "handicap": "4.5"
+        }
+      ],
+      "selectionTypes": [
+        "UNDER",
+        "OVER"
+      ]
+    },
+    {
+      "id": 1970325217697223,
+      "name": "Corners: Home Team Total",
+      "marketTypeId": 1970324836977466,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "5.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325750004381,
+          "name": "Under (5.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 2.56,
+          "priceStr": "2.56",
+          "handicap": "5.5"
+        },
+        {
+          "id": 1970325750004382,
+          "name": "Over (5.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 1.45,
+          "priceStr": "1.45",
+          "handicap": "5.5"
+        }
+      ],
+      "selectionTypes": [
+        "UNDER",
+        "OVER"
+      ]
+    },
+    {
+      "id": 1970325217697218,
+      "name": "Corners: Home Team Total",
+      "marketTypeId": 1970324836977466,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "6.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325750004372,
+          "name": "Under (6.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.85,
+          "priceStr": "1.85",
+          "handicap": "6.5"
+        },
+        {
+          "id": 1970325750004371,
+          "name": "Over (6.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 1.85,
+          "priceStr": "1.85",
+          "handicap": "6.5"
+        }
+      ],
+      "selectionTypes": [
+        "UNDER",
+        "OVER"
+      ]
+    },
+    {
+      "id": 1970325217697217,
+      "name": "Corners: Home Team Total",
+      "marketTypeId": 1970324836977466,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "7.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325750004369,
+          "name": "Under (7.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.46,
+          "priceStr": "1.46",
+          "handicap": "7.5"
+        },
+        {
+          "id": 1970325750004370,
+          "name": "Over (7.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 2.52,
+          "priceStr": "2.52",
+          "handicap": "7.5"
+        }
+      ],
+      "selectionTypes": [
+        "UNDER",
+        "OVER"
+      ]
+    },
+    {
+      "id": 1970325217697220,
+      "name": "Corners: Home Team Total",
+      "marketTypeId": 1970324836977466,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "8.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325750004376,
+          "name": "Under (8.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.24,
+          "priceStr": "1.24",
+          "handicap": "8.5"
+        },
+        {
+          "id": 1970325750004375,
+          "name": "Over (8.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 3.67,
+          "priceStr": "3.67",
+          "handicap": "8.5"
+        }
+      ],
+      "selectionTypes": [
+        "UNDER",
+        "OVER"
+      ]
+    },
+    {
+      "id": 1970325217697204,
+      "name": "Corners: Away Team Total",
+      "marketTypeId": 1970324836977465,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "1.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325750004343,
+          "name": "Under (1.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 5.7,
+          "priceStr": "5.70",
+          "handicap": "1.5"
+        },
+        {
+          "id": 1970325750004344,
+          "name": "Over (1.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 1.1,
+          "priceStr": "1.10",
+          "handicap": "1.5"
+        }
+      ],
+      "selectionTypes": [
+        "UNDER",
+        "OVER"
+      ]
+    },
+    {
+      "id": 1970325217697193,
+      "name": "Corners: Away Team Total",
+      "marketTypeId": 1970324836977465,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "2.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325750004322,
+          "name": "Under (2.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 2.73,
+          "priceStr": "2.73",
+          "handicap": "2.5"
+        },
+        {
+          "id": 1970325750004321,
+          "name": "Over (2.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 1.4,
+          "priceStr": "1.40",
+          "handicap": "2.5"
+        }
+      ],
+      "selectionTypes": [
+        "UNDER",
+        "OVER"
+      ]
+    },
+    {
+      "id": 1970325217697192,
+      "name": "Corners: Away Team Total",
+      "marketTypeId": 1970324836977465,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "3.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325750004319,
+          "name": "Under (3.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.75,
+          "priceStr": "1.75",
+          "handicap": "3.5"
+        },
+        {
+          "id": 1970325750004320,
+          "name": "Over (3.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 1.96,
+          "priceStr": "1.96",
+          "handicap": "3.5"
+        }
+      ],
+      "selectionTypes": [
+        "UNDER",
+        "OVER"
+      ]
+    },
+    {
+      "id": 1970325217697195,
+      "name": "Corners: Away Team Total",
+      "marketTypeId": 1970324836977465,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "4.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325750004325,
+          "name": "Under (4.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.33,
+          "priceStr": "1.33",
+          "handicap": "4.5"
+        },
+        {
+          "id": 1970325750004326,
+          "name": "Over (4.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 3.07,
+          "priceStr": "3.07",
+          "handicap": "4.5"
+        }
+      ],
+      "selectionTypes": [
+        "UNDER",
+        "OVER"
+      ]
+    },
+    {
+      "id": 1970325217697194,
+      "name": "Corners: Away Team Total",
+      "marketTypeId": 1970324836977465,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "5.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325750004324,
+          "name": "Under (5.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.12,
+          "priceStr": "1.12",
+          "handicap": "5.5"
+        },
+        {
+          "id": 1970325750004323,
+          "name": "Over (5.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 5.4,
+          "priceStr": "5.40",
+          "handicap": "5.5"
+        }
+      ],
+      "selectionTypes": [
+        "UNDER",
+        "OVER"
+      ]
+    },
+    {
+      "id": 1970325217697199,
+      "name": "1st half: Corners Over/Under",
+      "marketTypeId": 1970324836975159,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "3.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325750004334,
+          "name": "Under (3.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 2.89,
+          "priceStr": "2.89",
+          "handicap": "3.5"
+        },
+        {
+          "id": 1970325750004333,
+          "name": "Over (3.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 1.36,
+          "priceStr": "1.36",
+          "handicap": "3.5"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325217697190,
+      "name": "1st half: Corners Over/Under",
+      "marketTypeId": 1970324836975159,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "4.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325750004315,
+          "name": "Under (4.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.93,
+          "priceStr": "1.93",
+          "handicap": "4.5"
+        },
+        {
+          "id": 1970325750004316,
+          "name": "Over (4.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 1.78,
+          "priceStr": "1.78",
+          "handicap": "4.5"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325217697191,
+      "name": "1st half: Corners Over/Under",
+      "marketTypeId": 1970324836975159,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "5.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325750004317,
+          "name": "Under (5.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.46,
+          "priceStr": "1.46",
+          "handicap": "5.5"
+        },
+        {
+          "id": 1970325750004318,
+          "name": "Over (5.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 2.53,
+          "priceStr": "2.53",
+          "handicap": "5.5"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325214048933,
+      "name": "Race To 2",
+      "marketTypeId": 1970324836978006,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 3,
+      "runners": [
+        {
+          "id": 1970325741165542,
+          "name": "1",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 1.64,
+          "priceStr": "1.64"
+        },
+        {
+          "id": 1970325741165541,
+          "name": "2",
+          "open": true,
+          "r": 0,
+          "c": 2,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 7.3,
+          "priceStr": "7.30"
+        },
+        {
+          "id": 1970325741165543,
+          "name": "Neither",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "NEITHER"
+          ],
+          "price": 3.0,
+          "priceStr": "3.00"
+        }
+      ],
+      "selectionTypes": [
+        "AWAY",
+        "HOME",
+        "NEITHER"
+      ]
+    },
+    {
+      "id": 1970325214048915,
+      "name": "Race To 3",
+      "marketTypeId": 1970324836978006,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 3,
+      "runners": [
+        {
+          "id": 1970325741165505,
+          "name": "1",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 2.65,
+          "priceStr": "2.65"
+        },
+        {
+          "id": 1970325741165503,
+          "name": "2",
+          "open": true,
+          "r": 0,
+          "c": 2,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 18.9,
+          "priceStr": "18.90"
+        },
+        {
+          "id": 1970325741165504,
+          "name": "Neither",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "NEITHER"
+          ],
+          "price": 1.54,
+          "priceStr": "1.54"
+        }
+      ],
+      "selectionTypes": [
+        "AWAY",
+        "HOME",
+        "NEITHER"
+      ]
+    },
+    {
+      "id": 1970325214048833,
+      "name": "Race To 4",
+      "marketTypeId": 1970324836978006,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 3,
+      "runners": [
+        {
+          "id": 1970325741165288,
+          "name": "1",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 5.3,
+          "priceStr": "5.30"
+        },
+        {
+          "id": 1970325741165289,
+          "name": "2",
+          "open": true,
+          "r": 0,
+          "c": 2,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 46.0,
+          "priceStr": "46.00"
+        },
+        {
+          "id": 1970325741165290,
+          "name": "Neither",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "NEITHER"
+          ],
+          "price": 1.15,
+          "priceStr": "1.15"
+        }
+      ],
+      "selectionTypes": [
+        "AWAY",
+        "HOME",
+        "NEITHER"
+      ]
+    },
+    {
+      "id": 1970325214048827,
+      "name": "Half-time/Full-time",
+      "marketTypeId": 1970324836974996,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 3,
+      "runners": [
+        {
+          "id": 1970325741165268,
+          "name": "Draw/Draw",
+          "open": true,
+          "r": 1,
+          "c": 1,
+          "tags": [
+            "DRAW",
+            "DRAW"
+          ],
+          "price": 7.3,
+          "priceStr": "7.30"
+        },
+        {
+          "id": 1970325741165269,
+          "name": "2/X",
+          "open": true,
+          "r": 1,
+          "c": 2,
+          "tags": [
+            "AWAY",
+            "DRAW"
+          ],
+          "price": 20.5,
+          "priceStr": "20.50"
+        },
+        {
+          "id": 1970325741165270,
+          "name": "X/1",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "DRAW",
+            "HOME"
+          ],
+          "price": 4.38,
+          "priceStr": "4.38"
+        },
+        {
+          "id": 1970325741165271,
+          "name": "1/2",
+          "open": true,
+          "r": 2,
+          "c": 0,
+          "tags": [
+            "HOME",
+            "AWAY"
+          ],
+          "price": 48.0,
+          "priceStr": "48.00"
+        },
+        {
+          "id": 1970325741165276,
+          "name": "2/2",
+          "open": true,
+          "r": 2,
+          "c": 2,
+          "tags": [
+            "AWAY",
+            "AWAY"
+          ],
+          "price": 12.7,
+          "priceStr": "12.70"
+        },
+        {
+          "id": 1970325741165272,
+          "name": "1/1",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME",
+            "HOME"
+          ],
+          "price": 2.12,
+          "priceStr": "2.12"
+        },
+        {
+          "id": 1970325741165273,
+          "name": "1/X",
+          "open": true,
+          "r": 1,
+          "c": 0,
+          "tags": [
+            "HOME",
+            "DRAW"
+          ],
+          "price": 18.2,
+          "priceStr": "18.20"
+        },
+        {
+          "id": 1970325741165274,
+          "name": "X/2",
+          "open": true,
+          "r": 2,
+          "c": 1,
+          "tags": [
+            "DRAW",
+            "AWAY"
+          ],
+          "price": 15.4,
+          "priceStr": "15.40"
+        },
+        {
+          "id": 1970325741165275,
+          "name": "2/1",
+          "open": true,
+          "r": 0,
+          "c": 2,
+          "tags": [
+            "AWAY",
+            "HOME"
+          ],
+          "price": 22.0,
+          "priceStr": "22.00"
+        }
+      ],
+      "selectionTypes": [
+        "AWAY",
+        "HOME",
+        "HOME",
+        "DRAW",
+        "AWAY",
+        "DRAW",
+        "DRAW",
+        "AWAY",
+        "HOME"
+      ]
+    },
+    {
+      "id": 1970325214053015,
+      "name": "Match Result and Total Goals Over/Under",
+      "marketTypeId": 1970324836975049,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "2.5",
+      "cols": 3,
+      "runners": [
+        {
+          "id": 1970325741175009,
+          "name": "1 & Under (2.5)",
+          "open": true,
+          "r": 1,
+          "c": 0,
+          "tags": [
+            "HOME",
+            "UNDER"
+          ],
+          "price": 3.81,
+          "priceStr": "3.81",
+          "handicap": "2.5"
+        },
+        {
+          "id": 1970325741175008,
+          "name": "X & Over (2.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "DRAW",
+            "OVER"
+          ],
+          "price": 17.3,
+          "priceStr": "17.30",
+          "handicap": "2.5"
+        },
+        {
+          "id": 1970325741175010,
+          "name": "2 & Under (2.5)",
+          "open": true,
+          "r": 1,
+          "c": 2,
+          "tags": [
+            "AWAY",
+            "UNDER"
+          ],
+          "price": 12.2,
+          "priceStr": "12.20",
+          "handicap": "2.5"
+        },
+        {
+          "id": 1970325741175005,
+          "name": "1 & Over (2.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME",
+            "OVER"
+          ],
+          "price": 2.14,
+          "priceStr": "2.14",
+          "handicap": "2.5"
+        },
+        {
+          "id": 1970325741175007,
+          "name": "2 & Over (2.5)",
+          "open": true,
+          "r": 0,
+          "c": 2,
+          "tags": [
+            "AWAY",
+            "OVER"
+          ],
+          "price": 10.2,
+          "priceStr": "10.20",
+          "handicap": "2.5"
+        },
+        {
+          "id": 1970325741175006,
+          "name": "X & Under (2.5)",
+          "open": true,
+          "r": 1,
+          "c": 1,
+          "tags": [
+            "DRAW",
+            "UNDER"
+          ],
+          "price": 6.6,
+          "priceStr": "6.60",
+          "handicap": "2.5"
+        }
+      ],
+      "selectionTypes": [
+        "HOME",
+        "HOME",
+        "AWAY",
+        "DRAW",
+        "AWAY",
+        "DRAW"
+      ]
+    },
+    {
+      "id": 1970325214051966,
+      "name": "Match Result and Both Teams To Score",
+      "marketTypeId": 1970324836975024,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 3,
+      "runners": [
+        {
+          "id": 1970325741172668,
+          "name": "Draw & No",
+          "open": true,
+          "r": 1,
+          "c": 1,
+          "tags": [
+            "DRAW",
+            "NO"
+          ],
+          "price": 15.3,
+          "priceStr": "15.30"
+        },
+        {
+          "id": 1970325741172669,
+          "name": "1 & Yes",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME",
+            "YES"
+          ],
+          "price": 3.17,
+          "priceStr": "3.17"
+        },
+        {
+          "id": 1970325741172664,
+          "name": "Draw and Yes",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "DRAW",
+            "YES"
+          ],
+          "price": 6.7,
+          "priceStr": "6.70"
+        },
+        {
+          "id": 1970325741172665,
+          "name": "2 & Yes",
+          "open": true,
+          "r": 0,
+          "c": 2,
+          "tags": [
+            "AWAY",
+            "YES"
+          ],
+          "price": 11.3,
+          "priceStr": "11.30"
+        },
+        {
+          "id": 1970325741172666,
+          "name": "2 & No",
+          "open": true,
+          "r": 1,
+          "c": 2,
+          "tags": [
+            "AWAY",
+            "NO"
+          ],
+          "price": 11.3,
+          "priceStr": "11.30"
+        },
+        {
+          "id": 1970325741172667,
+          "name": "1 & No",
+          "open": true,
+          "r": 1,
+          "c": 0,
+          "tags": [
+            "HOME",
+            "NO"
+          ],
+          "price": 2.43,
+          "priceStr": "2.43"
+        }
+      ],
+      "selectionTypes": [
+        "AWAY",
+        "DRAW",
+        "DRAW",
+        "AWAY",
+        "HOME",
+        "HOME"
+      ]
+    },
+    {
+      "id": 1970325214048845,
+      "name": "Last Team to Score",
+      "marketTypeId": 1970324836974655,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 3,
+      "runners": [
+        {
+          "id": 1970325741165318,
+          "name": "1",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 1.38,
+          "priceStr": "1.38"
+        },
+        {
+          "id": 1970325741165319,
+          "name": "2",
+          "open": true,
+          "r": 0,
+          "c": 2,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 3.61,
+          "priceStr": "3.61"
+        },
+        {
+          "id": 1970325741165317,
+          "name": "X",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "OTHER"
+          ],
+          "price": 13.2,
+          "priceStr": "13.20"
+        }
+      ],
+      "selectionTypes": [
+        "HOME",
+        "AWAY",
+        "OTHER"
+      ]
+    },
+    {
+      "id": 1970325214048925,
+      "name": "2nd Half: Winner",
+      "marketTypeId": 1970324836975017,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 3,
+      "runners": [
+        {
+          "id": 1970325741165524,
+          "name": "1",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 1.77,
+          "priceStr": "1.77"
+        },
+        {
+          "id": 1970325741165526,
+          "name": "X",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "DRAW"
+          ],
+          "price": 3.08,
+          "priceStr": "3.08"
+        },
+        {
+          "id": 1970325741165525,
+          "name": "2",
+          "open": true,
+          "r": 0,
+          "c": 2,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 6.3,
+          "priceStr": "6.30"
+        }
+      ],
+      "selectionTypes": [
+        "DRAW",
+        "HOME",
+        "AWAY"
+      ]
+    },
+    {
+      "id": 1970325214048886,
+      "name": "2nd Half: Double Chance",
+      "marketTypeId": 1970324836975095,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 3,
+      "runners": [
+        {
+          "id": 1970325741165417,
+          "name": "1X",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOMEDRAW"
+          ],
+          "price": 1.1,
+          "priceStr": "1.10"
+        },
+        {
+          "id": 1970325741165418,
+          "name": "12",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "HOMEAWAY"
+          ],
+          "price": 1.35,
+          "priceStr": "1.35"
+        },
+        {
+          "id": 1970325741165419,
+          "name": "2X",
+          "open": true,
+          "r": 0,
+          "c": 2,
+          "tags": [
+            "DRAWAWAY"
+          ],
+          "price": 2.02,
+          "priceStr": "2.02"
+        }
+      ],
+      "selectionTypes": [
+        "DRAWAWAY",
+        "HOMEDRAW",
+        "HOMEAWAY"
+      ]
+    },
+    {
+      "id": 1970325214048885,
+      "name": "2nd half: Over/Under",
+      "marketTypeId": 1970324836975098,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "0.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165416,
+          "name": "Under (0.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 4.55,
+          "priceStr": "4.55",
+          "handicap": "0.5"
+        },
+        {
+          "id": 1970325741165415,
+          "name": "Over (0.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 1.2,
+          "priceStr": "1.20",
+          "handicap": "0.5"
+        }
+      ],
+      "selectionTypes": [
+        "UNDER",
+        "OVER"
+      ]
+    },
+    {
+      "id": 1970325214048843,
+      "name": "2nd half: Over/Under",
+      "marketTypeId": 1970324836975098,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "1",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165313,
+          "name": "Under (1)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 3.18,
+          "priceStr": "3.18",
+          "handicap": "1"
+        },
+        {
+          "id": 1970325741165314,
+          "name": "Over (1)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 1.36,
+          "priceStr": "1.36",
+          "handicap": "1"
+        }
+      ],
+      "selectionTypes": [
+        "UNDER",
+        "OVER"
+      ]
+    },
+    {
+      "id": 1970325214048919,
+      "name": "2nd half: Over/Under",
+      "marketTypeId": 1970324836975098,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "1.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165513,
+          "name": "Under (1.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.87,
+          "priceStr": "1.87",
+          "handicap": "1.5"
+        },
+        {
+          "id": 1970325741165512,
+          "name": "Over (1.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 1.94,
+          "priceStr": "1.94",
+          "handicap": "1.5"
+        }
+      ],
+      "selectionTypes": [
+        "UNDER",
+        "OVER"
+      ]
+    },
+    {
+      "id": 1970325214048872,
+      "name": "2nd half: Over/Under",
+      "marketTypeId": 1970324836975098,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "2",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165386,
+          "name": "Under (2)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.4,
+          "priceStr": "1.40",
+          "handicap": "2"
+        },
+        {
+          "id": 1970325741165385,
+          "name": "Over (2)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 2.98,
+          "priceStr": "2.98",
+          "handicap": "2"
+        }
+      ],
+      "selectionTypes": [
+        "UNDER",
+        "OVER"
+      ]
+    },
+    {
+      "id": 1970325214048839,
+      "name": "2nd half: Over/Under",
+      "marketTypeId": 1970324836975098,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "2.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165304,
+          "name": "Under (2.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.26,
+          "priceStr": "1.26",
+          "handicap": "2.5"
+        },
+        {
+          "id": 1970325741165303,
+          "name": "Over (2.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 3.87,
+          "priceStr": "3.87",
+          "handicap": "2.5"
+        }
+      ],
+      "selectionTypes": [
+        "UNDER",
+        "OVER"
+      ]
+    },
+    {
+      "id": 1970325214053013,
+      "name": "2nd half: Over/Under",
+      "marketTypeId": 1970324836975098,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "3.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741175002,
+          "name": "Under (3.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.05,
+          "priceStr": "1.05",
+          "handicap": "3.5"
+        },
+        {
+          "id": 1970325741175001,
+          "name": "Over (3.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 9.9,
+          "priceStr": "9.90",
+          "handicap": "3.5"
+        }
+      ],
+      "selectionTypes": [
+        "UNDER",
+        "OVER"
+      ]
+    },
+    {
+      "id": 1970325214048823,
+      "name": "2nd Half: Home Team Over/Under",
+      "marketTypeId": 1970324836977843,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "1",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165261,
+          "name": "Under (1)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.96,
+          "priceStr": "1.96",
+          "handicap": "1"
+        },
+        {
+          "id": 1970325741165260,
+          "name": "Over (1)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 1.79,
+          "priceStr": "1.79",
+          "handicap": "1"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325214048912,
+      "name": "2nd Half: Home Team Over/Under",
+      "marketTypeId": 1970324836977843,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "1.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165497,
+          "name": "Under (1.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.42,
+          "priceStr": "1.42",
+          "handicap": "1.5"
+        },
+        {
+          "id": 1970325741165496,
+          "name": "Over (1.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 2.73,
+          "priceStr": "2.73",
+          "handicap": "1.5"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325214048873,
+      "name": "2nd Half: Home Team Over/Under",
+      "marketTypeId": 1970324836977843,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "2",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165388,
+          "name": "Under (2)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.13,
+          "priceStr": "1.13",
+          "handicap": "2"
+        },
+        {
+          "id": 1970325741165387,
+          "name": "Over (2)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 5.5,
+          "priceStr": "5.50",
+          "handicap": "2"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325214051665,
+      "name": "2nd Half: Home Team Over/Under",
+      "marketTypeId": 1970324836977843,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "2.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741171990,
+          "name": "Under (2.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.1,
+          "priceStr": "1.10",
+          "handicap": "2.5"
+        },
+        {
+          "id": 1970325741171991,
+          "name": "Over (2.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 6.3,
+          "priceStr": "6.30",
+          "handicap": "2.5"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325214048930,
+      "name": "2nd Half: Away Team Over/Under",
+      "marketTypeId": 1970324836977842,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "0.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165535,
+          "name": "Under (0.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.5,
+          "priceStr": "1.50",
+          "handicap": "0.5"
+        },
+        {
+          "id": 1970325741165536,
+          "name": "Over (0.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 2.49,
+          "priceStr": "2.49",
+          "handicap": "0.5"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325214048891,
+      "name": "2nd Half: Away Team Over/Under",
+      "marketTypeId": 1970324836977842,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "1",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165429,
+          "name": "Under (1)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.06,
+          "priceStr": "1.06",
+          "handicap": "1"
+        },
+        {
+          "id": 1970325741165430,
+          "name": "Over (1)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 7.7,
+          "priceStr": "7.70",
+          "handicap": "1"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325214048848,
+      "name": "2nd Half: Away Team Over/Under",
+      "marketTypeId": 1970324836977842,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "1.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165324,
+          "name": "Under (1.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.04,
+          "priceStr": "1.04",
+          "handicap": "1.5"
+        },
+        {
+          "id": 1970325741165325,
+          "name": "Over (1.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 9.2,
+          "priceStr": "9.20",
+          "handicap": "1.5"
+        }
+      ],
+      "selectionTypes": [
+        "OVER",
+        "UNDER"
+      ]
+    },
+    {
+      "id": 1970325214048826,
+      "name": "Home Team To Win To Nil Yes/No",
+      "marketTypeId": 1970324836975018,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165266,
+          "name": "Yes",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "YES"
+          ],
+          "price": 2.31,
+          "priceStr": "2.31"
+        },
+        {
+          "id": 1970325741165267,
+          "name": "No",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "NO"
+          ],
+          "price": 1.6,
+          "priceStr": "1.60"
+        }
+      ],
+      "selectionTypes": [
+        "NO",
+        "YES"
+      ]
+    },
+    {
+      "id": 1970325214048927,
+      "name": "Away Team To Win To Nil Yes/No",
+      "marketTypeId": 1970324836975019,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165529,
+          "name": "Yes",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "YES"
+          ],
+          "price": 10.8,
+          "priceStr": "10.80"
+        },
+        {
+          "id": 1970325741165530,
+          "name": "No",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "NO"
+          ],
+          "price": 1.03,
+          "priceStr": "1.03"
+        }
+      ],
+      "selectionTypes": [
+        "NO",
+        "YES"
+      ]
+    },
+    {
+      "id": 1970325214048921,
+      "name": "Home to score in both halves",
+      "marketTypeId": 1970324836977828,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165517,
+          "name": "Yes",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "YES"
+          ],
+          "price": 2.21,
+          "priceStr": "2.21"
+        },
+        {
+          "id": 1970325741165516,
+          "name": "No",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "NO"
+          ],
+          "price": 1.65,
+          "priceStr": "1.65"
+        }
+      ],
+      "selectionTypes": [
+        "YES",
+        "NO"
+      ]
+    },
+    {
+      "id": 1970325214048887,
+      "name": "Away to score in both halves",
+      "marketTypeId": 1970324836977829,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165421,
+          "name": "Yes",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "YES"
+          ],
+          "price": 7.5,
+          "priceStr": "7.50"
+        },
+        {
+          "id": 1970325741165420,
+          "name": "No",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "NO"
+          ],
+          "price": 1.08,
+          "priceStr": "1.08"
+        }
+      ],
+      "selectionTypes": [
+        "YES",
+        "NO"
+      ]
+    },
+    {
+      "id": 1970325214048808,
+      "name": "Home to win both halves",
+      "marketTypeId": 1970324836977840,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165215,
+          "name": "Yes",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "YES"
+          ],
+          "price": 3.23,
+          "priceStr": "3.23"
+        },
+        {
+          "id": 1970325741165216,
+          "name": "No",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "NO"
+          ],
+          "price": 1.33,
+          "priceStr": "1.33"
+        }
+      ],
+      "selectionTypes": [
+        "YES",
+        "NO"
+      ]
+    },
+    {
+      "id": 1970325214048805,
+      "name": "Home To Win Either Half",
+      "marketTypeId": 1970324836977841,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165209,
+          "name": "Yes",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "YES"
+          ],
+          "price": 1.26,
+          "priceStr": "1.26"
+        },
+        {
+          "id": 1970325741165208,
+          "name": "No",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "NO"
+          ],
+          "price": 3.8,
+          "priceStr": "3.80"
+        }
+      ],
+      "selectionTypes": [
+        "YES",
+        "NO"
+      ]
+    },
+    {
+      "id": 1970325214048865,
+      "name": "Away To Win Either Half",
+      "marketTypeId": 1970324836977836,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165369,
+          "name": "Yes",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "YES"
+          ],
+          "price": 3.55,
+          "priceStr": "3.55"
+        },
+        {
+          "id": 1970325741165370,
+          "name": "No",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "NO"
+          ],
+          "price": 1.28,
+          "priceStr": "1.28"
+        }
+      ],
+      "selectionTypes": [
+        "YES",
+        "NO"
+      ]
+    },
+    {
+      "id": 1970325214053011,
+      "name": "Home Team Clean Sheet",
+      "marketTypeId": 1970324836975015,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741174997,
+          "name": "Yes",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "YES"
+          ],
+          "price": 2.13,
+          "priceStr": "2.13"
+        },
+        {
+          "id": 1970325741174996,
+          "name": "No",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "NO"
+          ],
+          "price": 1.69,
+          "priceStr": "1.69"
+        }
+      ],
+      "selectionTypes": [
+        "NO",
+        "YES"
+      ]
+    },
+    {
+      "id": 1970325214053010,
+      "name": "Away Team Clean Sheet",
+      "marketTypeId": 1970324836975014,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741174994,
+          "name": "Yes",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "YES"
+          ],
+          "price": 6.9,
+          "priceStr": "6.90"
+        },
+        {
+          "id": 1970325741174995,
+          "name": "No",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "NO"
+          ],
+          "price": 1.09,
+          "priceStr": "1.09"
+        }
+      ],
+      "selectionTypes": [
+        "YES",
+        "NO"
+      ]
+    },
+    {
+      "id": 1970325214048835,
+      "name": "Home Team To Score Yes/No",
+      "marketTypeId": 1970324836975038,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165296,
+          "name": "Yes",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "YES"
+          ],
+          "price": 1.09,
+          "priceStr": "1.09"
+        },
+        {
+          "id": 1970325741165295,
+          "name": "No",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "NO"
+          ],
+          "price": 6.8,
+          "priceStr": "6.80"
+        }
+      ],
+      "selectionTypes": [
+        "NO",
+        "YES"
+      ]
+    },
+    {
+      "id": 1970325214048880,
+      "name": "Away Team To Score Yes/No",
+      "marketTypeId": 1970324836975037,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165404,
+          "name": "Yes",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "YES"
+          ],
+          "price": 1.74,
+          "priceStr": "1.74"
+        },
+        {
+          "id": 1970325741165405,
+          "name": "No",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "NO"
+          ],
+          "price": 2.07,
+          "priceStr": "2.07"
+        }
+      ],
+      "selectionTypes": [
+        "NO",
+        "YES"
+      ]
+    },
+    {
+      "id": 1970325214048867,
+      "name": "Highest Scoring Half",
+      "marketTypeId": 1970324836975009,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 3,
+      "runners": [
+        {
+          "id": 1970325741165373,
+          "name": "1st Half",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 3.06,
+          "priceStr": "3.06"
+        },
+        {
+          "id": 1970325741165375,
+          "name": "Second Half",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "DRAW"
+          ],
+          "price": 2.04,
+          "priceStr": "2.04"
+        },
+        {
+          "id": 1970325741165374,
+          "name": "X",
+          "open": true,
+          "r": 0,
+          "c": 2,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 3.79,
+          "priceStr": "3.79"
+        }
+      ],
+      "selectionTypes": [
+        "HOME",
+        "AWAY",
+        "DRAW"
+      ]
+    },
+    {
+      "id": 1970325214053004,
+      "name": "Odd/Even",
+      "marketTypeId": 1970324836974651,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741174983,
+          "name": "Odd",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "ODD"
+          ],
+          "price": 1.95,
+          "priceStr": "1.95"
+        },
+        {
+          "id": 1970325741174982,
+          "name": "Even",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "EVEN"
+          ],
+          "price": 1.9,
+          "priceStr": "1.90"
+        }
+      ],
+      "selectionTypes": [
+        "EVEN",
+        "ODD"
+      ]
+    },
+    {
+      "id": 1970325214069999,
+      "name": "1st Half: Odd/Even",
+      "marketTypeId": 1970324836975000,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741215358,
+          "name": "Odd",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "ODD"
+          ],
+          "price": 2.03,
+          "priceStr": "2.03"
+        },
+        {
+          "id": 1970325741215357,
+          "name": "Even",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "EVEN"
+          ],
+          "price": 1.83,
+          "priceStr": "1.83"
+        }
+      ],
+      "selectionTypes": [
+        "EVEN",
+        "ODD"
+      ]
+    },
+    {
+      "id": 1970325214053688,
+      "name": "Odd/Even: Home Team",
+      "marketTypeId": 1970324836975012,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741176733,
+          "name": "Odd",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "ODD"
+          ],
+          "price": 1.9,
+          "priceStr": "1.90"
+        },
+        {
+          "id": 1970325741176734,
+          "name": "Even",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "EVEN"
+          ],
+          "price": 1.9,
+          "priceStr": "1.90"
+        }
+      ],
+      "selectionTypes": [
+        "EVEN",
+        "ODD"
+      ]
+    },
+    {
+      "id": 1970325214053642,
+      "name": "Odd/Even: Away Team",
+      "marketTypeId": 1970324836975013,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741176591,
+          "name": "Odd",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "ODD"
+          ],
+          "price": 2.32,
+          "priceStr": "2.32"
+        },
+        {
+          "id": 1970325741176590,
+          "name": "Even",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "EVEN"
+          ],
+          "price": 1.62,
+          "priceStr": "1.62"
+        }
+      ],
+      "selectionTypes": [
+        "EVEN",
+        "ODD"
+      ]
+    },
+    {
+      "id": 1970325214062703,
+      "name": "2nd Half: Odd/Even",
+      "marketTypeId": 1970324836975097,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741198130,
+          "name": "Odd",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "ODD"
+          ],
+          "price": 1.98,
+          "priceStr": "1.98"
+        },
+        {
+          "id": 1970325741198131,
+          "name": "Even",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "EVEN"
+          ],
+          "price": 1.87,
+          "priceStr": "1.87"
+        }
+      ],
+      "selectionTypes": [
+        "EVEN",
+        "ODD"
+      ]
+    },
+    {
+      "id": 1970325214053003,
+      "name": "10 Minute Result",
+      "marketTypeId": 1970324836978505,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 3,
+      "runners": [
+        {
+          "id": 1970325741174980,
+          "name": "1",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 5.2,
+          "priceStr": "5.20"
+        },
+        {
+          "id": 1970325741174981,
+          "name": "X",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "DRAW"
+          ],
+          "price": 1.24,
+          "priceStr": "1.24"
+        },
+        {
+          "id": 1970325741174979,
+          "name": "2",
+          "open": true,
+          "r": 0,
+          "c": 2,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 12.6,
+          "priceStr": "12.60"
+        }
+      ],
+      "selectionTypes": [
+        "DRAW",
+        "HOME",
+        "AWAY"
+      ]
+    },
+    {
+      "id": 1970325214053008,
+      "name": "10 Minute Under/Over",
+      "marketTypeId": 1970324836978510,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "0.5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741174990,
+          "name": "Under (0.5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "UNDER"
+          ],
+          "price": 1.21,
+          "priceStr": "1.21",
+          "handicap": "0.5"
+        },
+        {
+          "id": 1970325741174991,
+          "name": "Over (0.5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OVER"
+          ],
+          "price": 3.96,
+          "priceStr": "3.96",
+          "handicap": "0.5"
+        }
+      ],
+      "selectionTypes": [
+        "UNDER",
+        "OVER"
+      ]
+    },
+    {
+      "id": 1970325214048852,
+      "name": "2nd Half: Away Team To Score",
+      "marketTypeId": 1970324836978501,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165335,
+          "name": "Yes",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "YES"
+          ],
+          "price": 2.58,
+          "priceStr": "2.58"
+        },
+        {
+          "id": 1970325741165332,
+          "name": "No",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "NO"
+          ],
+          "price": 1.49,
+          "priceStr": "1.49"
+        }
+      ],
+      "selectionTypes": [
+        "YES",
+        "NO"
+      ]
+    },
+    {
+      "id": 1970325214048881,
+      "name": "2nd Half: First Team To Score",
+      "marketTypeId": 1970324836978537,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 3,
+      "runners": [
+        {
+          "id": 1970325741165408,
+          "name": "1",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 1.62,
+          "priceStr": "1.62"
+        },
+        {
+          "id": 1970325741165406,
+          "name": "2",
+          "open": true,
+          "r": 0,
+          "c": 2,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 4.18,
+          "priceStr": "4.18"
+        },
+        {
+          "id": 1970325741165407,
+          "name": "X",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "OTHER"
+          ],
+          "price": 4.48,
+          "priceStr": "4.48"
+        }
+      ],
+      "selectionTypes": [
+        "HOME",
+        "AWAY",
+        "OTHER"
+      ]
+    },
+    {
+      "id": 1970325214048922,
+      "name": "2nd half: Home Team To Score",
+      "marketTypeId": 1970324836978502,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165519,
+          "name": "Yes",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "YES"
+          ],
+          "price": 1.38,
+          "priceStr": "1.38"
+        },
+        {
+          "id": 1970325741165518,
+          "name": "No",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "NO"
+          ],
+          "price": 3.0,
+          "priceStr": "3.00"
+        }
+      ],
+      "selectionTypes": [
+        "NO",
+        "YES"
+      ]
+    },
+    {
+      "id": 1970325214048825,
+      "name": "Both Teams To Score In Both Halves",
+      "marketTypeId": 1970324836978536,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165264,
+          "name": "Yes",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "YES"
+          ],
+          "price": 13.8,
+          "priceStr": "13.80"
+        },
+        {
+          "id": 1970325741165265,
+          "name": "No",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "NO"
+          ],
+          "price": 1.01,
+          "priceStr": "1.01"
+        }
+      ],
+      "selectionTypes": [
+        "NO",
+        "YES"
+      ]
+    },
+    {
+      "id": 1970325217697196,
+      "name": "Corners Handicap",
+      "marketTypeId": 1970324836978528,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "-5",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325750004328,
+          "name": "1 (-5)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 3.2,
+          "priceStr": "3.20",
+          "handicap": "-5"
+        },
+        {
+          "id": 1970325750004327,
+          "name": "2 (+5)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 1.32,
+          "priceStr": "1.32",
+          "handicap": "+5"
+        }
+      ],
+      "selectionTypes": [
+        "HOME",
+        "AWAY"
+      ]
+    },
+    {
+      "id": 1970325217697201,
+      "name": "Corners Handicap",
+      "marketTypeId": 1970324836978528,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "-4",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325750004338,
+          "name": "1 (-4)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 2.35,
+          "priceStr": "2.35",
+          "handicap": "-4"
+        },
+        {
+          "id": 1970325750004337,
+          "name": "2 (+4)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 1.55,
+          "priceStr": "1.55",
+          "handicap": "+4"
+        }
+      ],
+      "selectionTypes": [
+        "HOME",
+        "AWAY"
+      ]
+    },
+    {
+      "id": 1970325217697202,
+      "name": "Corners Handicap",
+      "marketTypeId": 1970324836978528,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "-3",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325750004340,
+          "name": "1 (-3)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 1.83,
+          "priceStr": "1.83",
+          "handicap": "-3"
+        },
+        {
+          "id": 1970325750004339,
+          "name": "2 (+3)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 1.9,
+          "priceStr": "1.90",
+          "handicap": "+3"
+        }
+      ],
+      "selectionTypes": [
+        "HOME",
+        "AWAY"
+      ]
+    },
+    {
+      "id": 1970325217697203,
+      "name": "Corners Handicap",
+      "marketTypeId": 1970324836978528,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "-2",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325750004341,
+          "name": "1 (-2)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 1.5,
+          "priceStr": "1.50",
+          "handicap": "-2"
+        },
+        {
+          "id": 1970325750004342,
+          "name": "2 (+2)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 2.48,
+          "priceStr": "2.48",
+          "handicap": "+2"
+        }
+      ],
+      "selectionTypes": [
+        "HOME",
+        "AWAY"
+      ]
+    },
+    {
+      "id": 1970325217697200,
+      "name": "Corners Handicap",
+      "marketTypeId": 1970324836978528,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "-1",
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325750004336,
+          "name": "1 (-1)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 1.28,
+          "priceStr": "1.28",
+          "handicap": "-1"
+        },
+        {
+          "id": 1970325750004335,
+          "name": "2 (+1)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 3.49,
+          "priceStr": "3.49",
+          "handicap": "+1"
+        }
+      ],
+      "selectionTypes": [
+        "HOME",
+        "AWAY"
+      ]
+    },
+    {
+      "id": 1970325214048892,
+      "name": "Correct Score",
+      "marketTypeId": 1970324836978549,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 3,
+      "runners": [
+        {
+          "id": 1970325741165440,
+          "name": "0:0",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "SCORE"
+          ],
+          "price": 11.0,
+          "priceStr": "11.00"
+        },
+        {
+          "id": 1970325741165444,
+          "name": "1:0",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "SCORE"
+          ],
+          "price": 6.7,
+          "priceStr": "6.70"
+        },
+        {
+          "id": 1970325741165431,
+          "name": "0:1",
+          "open": true,
+          "r": 0,
+          "c": 2,
+          "tags": [
+            "SCORE"
+          ],
+          "price": 18.1,
+          "priceStr": "18.10"
+        },
+        {
+          "id": 1970325741165450,
+          "name": "1:1",
+          "open": true,
+          "r": 1,
+          "c": 1,
+          "tags": [
+            "SCORE"
+          ],
+          "price": 8.3,
+          "priceStr": "8.30"
+        },
+        {
+          "id": 1970325741165436,
+          "name": "0:2",
+          "open": true,
+          "r": 1,
+          "c": 2,
+          "tags": [
+            "SCORE"
+          ],
+          "price": 43.0,
+          "priceStr": "43.00"
+        },
+        {
+          "id": 1970325741165435,
+          "name": "2:0",
+          "open": true,
+          "r": 1,
+          "c": 0,
+          "tags": [
+            "SCORE"
+          ],
+          "price": 6.6,
+          "priceStr": "6.60"
+        },
+        {
+          "id": 1970325741165445,
+          "name": "1:2",
+          "open": true,
+          "r": 2,
+          "c": 2,
+          "tags": [
+            "SCORE"
+          ],
+          "price": 21.1,
+          "priceStr": "21.10"
+        },
+        {
+          "id": 1970325741165448,
+          "name": "2:1",
+          "open": true,
+          "r": 2,
+          "c": 0,
+          "tags": [
+            "SCORE"
+          ],
+          "price": 8.0,
+          "priceStr": "8.00"
+        },
+        {
+          "id": 1970325741165454,
+          "name": "2:2",
+          "open": true,
+          "r": 2,
+          "c": 1,
+          "tags": [
+            "SCORE"
+          ],
+          "price": 19.1,
+          "priceStr": "19.10"
+        },
+        {
+          "id": 1970325741165437,
+          "name": "3:0",
+          "open": true,
+          "r": 3,
+          "c": 0,
+          "tags": [
+            "SCORE"
+          ],
+          "price": 9.1,
+          "priceStr": "9.10"
+        },
+        {
+          "id": 1970325741165438,
+          "name": "0:3",
+          "open": false,
+          "r": 3,
+          "c": 2,
+          "tags": [
+            "SCORE"
+          ],
+          "price": 97.0,
+          "priceStr": "97.00"
+        },
+        {
+          "id": 1970325741165447,
+          "name": "3:1",
+          "open": true,
+          "r": 4,
+          "c": 0,
+          "tags": [
+            "SCORE"
+          ],
+          "price": 11.8,
+          "priceStr": "11.80"
+        },
+        {
+          "id": 1970325741165449,
+          "name": "1:3",
+          "open": true,
+          "r": 4,
+          "c": 2,
+          "tags": [
+            "SCORE"
+          ],
+          "price": 69.0,
+          "priceStr": "69.00"
+        },
+        {
+          "id": 1970325741165452,
+          "name": "3:2",
+          "open": true,
+          "r": 5,
+          "c": 0,
+          "tags": [
+            "SCORE"
+          ],
+          "price": 27.0,
+          "priceStr": "27.00"
+        },
+        {
+          "id": 1970325741165432,
+          "name": "2:3",
+          "open": true,
+          "r": 5,
+          "c": 2,
+          "tags": [
+            "SCORE"
+          ],
+          "price": 64.0,
+          "priceStr": "64.00"
+        },
+        {
+          "id": 1970325741165439,
+          "name": "3:3",
+          "open": true,
+          "r": 3,
+          "c": 1,
+          "tags": [
+            "SCORE"
+          ],
+          "price": 81.0,
+          "priceStr": "81.00"
+        },
+        {
+          "id": 1970325741165434,
+          "name": "4:0",
+          "open": true,
+          "r": 6,
+          "c": 0,
+          "tags": [
+            "SCORE"
+          ],
+          "price": 16.6,
+          "priceStr": "16.60"
+        },
+        {
+          "id": 1970325741165451,
+          "name": "4:1",
+          "open": true,
+          "r": 7,
+          "c": 0,
+          "tags": [
+            "SCORE"
+          ],
+          "price": 21.1,
+          "priceStr": "21.10"
+        },
+        {
+          "id": 1970325741165446,
+          "name": "4:2",
+          "open": true,
+          "r": 8,
+          "c": 0,
+          "tags": [
+            "SCORE"
+          ],
+          "price": 51.0,
+          "priceStr": "51.00"
+        },
+        {
+          "id": 1970325741165442,
+          "name": "4:3",
+          "open": false,
+          "r": 9,
+          "c": 0,
+          "tags": [
+            "SCORE"
+          ],
+          "price": 97.0,
+          "priceStr": "97.00"
+        },
+        {
+          "id": 1970325741165455,
+          "name": "5:0",
+          "open": true,
+          "r": 10,
+          "c": 0,
+          "tags": [
+            "SCORE"
+          ],
+          "price": 36.0,
+          "priceStr": "36.00"
+        },
+        {
+          "id": 1970325741165453,
+          "name": "5:1",
+          "open": true,
+          "r": 11,
+          "c": 0,
+          "tags": [
+            "SCORE"
+          ],
+          "price": 46.0,
+          "priceStr": "46.00"
+        },
+        {
+          "id": 1970325741165433,
+          "name": "5:2",
+          "open": true,
+          "r": 12,
+          "c": 0,
+          "tags": [
+            "SCORE"
+          ],
+          "price": 91.0,
+          "priceStr": "91.00"
+        },
+        {
+          "id": 1970325741165441,
+          "name": "6:0",
+          "open": true,
+          "r": 13,
+          "c": 0,
+          "tags": [
+            "SCORE"
+          ],
+          "price": 81.0,
+          "priceStr": "81.00"
+        },
+        {
+          "id": 1970325741165443,
+          "name": "6:1",
+          "open": true,
+          "r": 14,
+          "c": 0,
+          "tags": [
+            "SCORE"
+          ],
+          "price": 96.0,
+          "priceStr": "96.00"
+        }
+      ]
+    },
+    {
+      "id": 1970325214048829,
+      "name": "Handicap",
+      "marketTypeId": 1970324836978503,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "-3",
+      "cols": 3,
+      "runners": [
+        {
+          "id": 1970325741165279,
+          "name": "1 (0:3)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 7.6,
+          "priceStr": "7.60",
+          "handicap": "0:3"
+        },
+        {
+          "id": 1970325741165280,
+          "name": "X (0:3)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "DRAW"
+          ],
+          "price": 6.5,
+          "priceStr": "6.50",
+          "handicap": "0:3"
+        },
+        {
+          "id": 1970325741165281,
+          "name": "2 (0:3)",
+          "open": true,
+          "r": 0,
+          "c": 2,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 1.26,
+          "priceStr": "1.26",
+          "handicap": "0:3"
+        }
+      ],
+      "selectionTypes": [
+        "DRAW",
+        "HOME",
+        "AWAY"
+      ]
+    },
+    {
+      "id": 1970325214048898,
+      "name": "Handicap",
+      "marketTypeId": 1970324836978503,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "-2",
+      "cols": 3,
+      "runners": [
+        {
+          "id": 1970325741165467,
+          "name": "1 (0:2)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 3.79,
+          "priceStr": "3.79",
+          "handicap": "0:2"
+        },
+        {
+          "id": 1970325741165469,
+          "name": "X (0:2)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "DRAW"
+          ],
+          "price": 4.4,
+          "priceStr": "4.40",
+          "handicap": "0:2"
+        },
+        {
+          "id": 1970325741165468,
+          "name": "2 (0:2)",
+          "open": true,
+          "r": 0,
+          "c": 2,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 1.7,
+          "priceStr": "1.70",
+          "handicap": "0:2"
+        }
+      ],
+      "selectionTypes": [
+        "DRAW",
+        "HOME",
+        "AWAY"
+      ]
+    },
+    {
+      "id": 1970325214048874,
+      "name": "Handicap",
+      "marketTypeId": 1970324836978503,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "-1",
+      "cols": 3,
+      "runners": [
+        {
+          "id": 1970325741165391,
+          "name": "1 (0:1)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 2.15,
+          "priceStr": "2.15",
+          "handicap": "0:1"
+        },
+        {
+          "id": 1970325741165390,
+          "name": "X (0:1)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "DRAW"
+          ],
+          "price": 3.72,
+          "priceStr": "3.72",
+          "handicap": "0:1"
+        },
+        {
+          "id": 1970325741165389,
+          "name": "2 (0:1)",
+          "open": true,
+          "r": 0,
+          "c": 2,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 2.9,
+          "priceStr": "2.90",
+          "handicap": "0:1"
+        }
+      ],
+      "selectionTypes": [
+        "DRAW",
+        "HOME",
+        "AWAY"
+      ]
+    },
+    {
+      "id": 1970325214056862,
+      "name": "Handicap",
+      "marketTypeId": 1970324836978503,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "handicap": "1",
+      "cols": 3,
+      "runners": [
+        {
+          "id": 1970325741184429,
+          "name": "1 (1:0)",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "HOME"
+          ],
+          "price": 1.11,
+          "priceStr": "1.11",
+          "handicap": "1:0"
+        },
+        {
+          "id": 1970325741184430,
+          "name": "X (1:0)",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "DRAW"
+          ],
+          "price": 8.1,
+          "priceStr": "8.10",
+          "handicap": "1:0"
+        },
+        {
+          "id": 1970325741184428,
+          "name": "2 (1:0)",
+          "open": true,
+          "r": 0,
+          "c": 2,
+          "tags": [
+            "AWAY"
+          ],
+          "price": 17.2,
+          "priceStr": "17.20",
+          "handicap": "1:0"
+        }
+      ],
+      "selectionTypes": [
+        "DRAW",
+        "HOME",
+        "AWAY"
+      ]
+    },
+    {
+      "id": 1970325214048894,
+      "name": "In What Half First Goal Will Be Scored?",
+      "marketTypeId": 1970324836978551,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 3,
+      "runners": [
+        {
+          "id": 1970325741165459,
+          "name": "1st Half",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OTHER"
+          ],
+          "price": 1.33,
+          "priceStr": "1.33"
+        },
+        {
+          "id": 1970325741165458,
+          "name": "2nd Half",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "OTHER"
+          ],
+          "price": 4.16,
+          "priceStr": "4.16"
+        },
+        {
+          "id": 1970325741165460,
+          "name": "X",
+          "open": true,
+          "r": 0,
+          "c": 2,
+          "tags": [
+            "OTHER"
+          ],
+          "price": 11.0,
+          "priceStr": "11.00"
+        }
+      ],
+      "selectionTypes": [
+        "OTHER",
+        "OTHER",
+        "OTHER"
+      ]
+    },
+    {
+      "id": 1970325214058284,
+      "name": "In Which Half Away Team Will Score More Goals?",
+      "marketTypeId": 1970324836978552,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 3,
+      "runners": [
+        {
+          "id": 1970325741187558,
+          "name": "1st Half",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "OTHER"
+          ],
+          "price": 4.41,
+          "priceStr": "4.41"
+        },
+        {
+          "id": 1970325741187556,
+          "name": "2nd Half",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "OTHER"
+          ],
+          "price": 3.26,
+          "priceStr": "3.26"
+        },
+        {
+          "id": 1970325741187557,
+          "name": "All Periods The Same",
+          "open": true,
+          "r": 0,
+          "c": 2,
+          "tags": [
+            "OTHER"
+          ],
+          "price": 1.83,
+          "priceStr": "1.83"
+        }
+      ],
+      "selectionTypes": [
+        "OTHER",
+        "OTHER",
+        "OTHER"
+      ]
+    },
+    {
+      "id": 1970325214048884,
+      "name": "Will A Goal Be Scored In Both Halves?",
+      "marketTypeId": 1970324836978541,
+      "open": true,
+      "hasZeroMargin": false,
+      "primary": false,
+      "cols": 2,
+      "runners": [
+        {
+          "id": 1970325741165414,
+          "name": "Yes",
+          "open": true,
+          "r": 0,
+          "c": 0,
+          "tags": [
+            "YES"
+          ],
+          "price": 1.65,
+          "priceStr": "1.65"
+        },
+        {
+          "id": 1970325741165413,
+          "name": "No",
+          "open": true,
+          "r": 0,
+          "c": 1,
+          "tags": [
+            "NO"
+          ],
+          "price": 2.21,
+          "priceStr": "2.21"
+        }
+      ],
+      "selectionTypes": [
+        "YES",
+        "NO"
+      ]
+    }
+  ],
+  "runnersCount": 408
+}
